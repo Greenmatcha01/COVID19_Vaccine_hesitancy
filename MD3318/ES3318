@@ -1,0 +1,1579 @@
+DATA LIST FILE= 'DA3318'
+/ESTUDIO 1-4 CUES 5-8 CCAA 9-10 PROV 11-12 MUN 13-15 CAPITAL 16 TAMUNI 17 ENTREV 18-22 TIPO_TEL 23
+SEXO 24 EDAD 25-26 P0 27 P1 28 P2 29 P3 30-31 P4 32 SERSANIENTRE 33 P4ANNO 34 P4MES 35-36 P4A0_1_20 37-38
+P4A0_2_21 39-40 SERVIENTRE_1 41 SERVIENTRE_2 42 SERVIENTRE_3 43 SERVIENTRE_4 44 SERVIENTRE_5 45
+SERVIENTRE_7 46 SERVIENTRE_8 47 SERVIENTRE_10 48 SERVIENTRE_11 49 SERVIENTRE_96 50 SERVIENTRE_97 51
+SERVIENTRE_99 51 SINTOMASENTRE_1 52 SINTOMASENTRE_2 53 SINTOMASENTRE_3 54 SINTOMASENTRE_4 55
+SINTOMASENTRE_5 56 SINTOMASENTRE_6 57 SINTOMASENTRE_7 58 SINTOMASENTRE_8 59 SINTOMASENTRE_9 60
+SINTOMASENTRE_10 61 SINTOMASENTRE_11 62 SINTOMASENTRE_12 63 SINTOMASENTRE_13 64 SINTOMASENTRE_14 65
+SINTOMASENTRE_15 66 SINTOMASENTRE_17 67 SINTOMASENTRE_18 68 SINTOMASENTRE_19 69 SINTOMASENTRE_20 70
+SINTOMASENTRE_21 71 SINTOMASENTRE_97 72 SINTOMASENTRE_96 73 SINTOMASENTRE_22 74 SINTOMASENTRE_98 75
+SINTOMASENTRE_99 76 ATENCENTRE 77 AISLAENTRE 78 PRUEBAENTRE 79 CORONAENTRE 80 EVOLUCENTRE 81
+ATENCIONENTRE_1 82 ATENCIONENTRE_2 83 ATENCIONENTRE_3 84 ATENCIONENTRE_4 85 ATENCIONENTRE_5 86
+ATENCIONENTRE_7 87 ATENCIONENTRE_9 88 FORMAENTRE_1 89 FORMAENTRE_2 90 FORMAENTRE_3 91 FORMAENTRE_4 92
+FORMAENTRE_5 93 FORMAENTRE_96 94 FORMAENTRE_99 95 VALORACENTRE 96 SERVIOTROSCONVI 97 NUMPERSONAS 98-99
+EDADPERSONAS_1 100-101 EDADPERSONAS_2 102-103 EDADPERSONAS_3 104-105 EDADPERSONAS_4 106-107
+EDADPERSONAS_5 108-109 EDADPERSONAS_6 110-111 DURACONVI_SUB1_1 112 DURACONVI_SUB2_1 113-114
+DURACONVI_SUB1_2 115 DURACONVI_SUB2_2 116-117 DURACONVI_SUB1_3 118 DURACONVI_SUB2_3 119-120
+DURACONVI_SUB1_4 121 DURACONVI_SUB2_4 122-123 DURACONVI_SUB1_5 124 DURACONVI_SUB2_5 125-126
+DURACONVI_SUB1_6 127 DURACONVI_SUB2_6 128-129 DURACONVI1 130-131 DURACONVI2 132-133 DURACONVI3 134-135
+DURACONVI4 136-137 DURACONVI5 138-139 DURACONVI6 140-141 DURACONVI1_1 142-143 DURACONVI2_1 144-145
+DURACONVI3_1 146-147 DURACONVI4_1 148-149 DURACONVI5_1 150-151 DURACONVI6_1 152-153 SERVICONVI_1 154
+SERVICONVI_2 155 SERVICONVI_3 156 SERVICONVI_4 157 SERVICONVI_5 158 SERVICONVI_7 159 SERVICONVI_8 160
+SERVICONVI_10 161 SERVICONVI_11 162 SERVICONVI_96 163 SERVICONVI_97 164 SERVICONVI_98 164 SERVICONVI_99 165
+SINTOMASCONVI_1 166 SINTOMASCONVI_2 167 SINTOMASCONVI_3 168 SINTOMASCONVI_4 169 SINTOMASCONVI_5 170
+SINTOMASCONVI_6 171 SINTOMASCONVI_7 172 SINTOMASCONVI_8 173 SINTOMASCONVI_9 174 SINTOMASCONVI_10 175
+SINTOMASCONVI_11 176 SINTOMASCONVI_12 177 SINTOMASCONVI_13 178 SINTOMASCONVI_14 179 SINTOMASCONVI_15 180
+SINTOMASCONVI_17 181 SINTOMASCONVI_18 182 SINTOMASCONVI_19 183 SINTOMASCONVI_20 184 SINTOMASCONVI_21 185
+SINTOMASCONVI_97 186 SINTOMASCONVI_96 187 SINTOMASCONVI_22 188 SINTOMASCONVI_98 189 SINTOMASCONVI_99 190
+ATENCCONVI 191 AISLACONVI 192 PRUEBACONVI 193 CORONACONVI 194 EVOLUCCONVI 195 ATENCIONCONVI_1 196
+ATENCIONCONVI_2 197 ATENCIONCONVI_3 198 ATENCIONCONVI_4 199 ATENCIONCONVI_5 200 ATENCIONCONVI_7 201
+ATENCIONCONVI_8 202 ATENCIONCONVI_9 203 FORMACONVI_1 204 FORMACONVI_2 205 FORMACONVI_3 206 FORMACONVI_4 207
+FORMACONVI_5 208 FORMACONVI_96 209 FORMACONVI_98 210 FORMACONVI_99 211 VALORACONVI 212 P4CORONA_1 213
+P4CORONA_2 214 P4CORONA_3 215 P4MUERTOS_1 216 P4MUERTOS_2 217 P4MUERTOS_3 218 P5 219-220 P5A 221-222
+P6 223-224 P7 225 P8 226 P9 227 P10A_1 228 P10A_2 229 P10A_3 230 P10A_4 231 P10A_5 232 P10A_6 233
+P10A_7 234 P10A_8 235 P10A_9 236 P10A_10 237 P10A_96 238 P10A_98 239 P10A_99 240 P10B_1 241
+P10B_2 242 P10B_3 243 P10B_4 244 P10B_5 245 P10B_6 246 P10B_7 247 P10B_8 248 P10B_9 249 P10B_10 250
+P10B_96 251 P10B_98 252 P10B_99 253 P11 254-255 LIDERESCONOCE_1 256-257 LIDERESCONOCE_2 258-259
+LIDERESCONOCE_3 260-261 LIDERESCONOCE_4 262-263 LIDERESCONOCE_5 264-265 LIDERESVALORA_1_1 266-267
+LIDERESVALORA_1_2 268-269 LIDERESVALORA_1_3 270-271 LIDERESVALORA_1_4 272-273 LIDERESVALORA_1_5 274-275
+P14 276 P15 277 PESPANNA1 278-279 PESPANNA2 280-281 PESPANNA3 282-283 PPERSONAL1 284-285 PPERSONAL2 286-287
+PPERSONAL3 288-289 P18 290 P19 291 P20 292 P21 293 P22_1 294 P22_2 295 P22_3 296 P22_4 297 P22_5 298
+P22_6 299 P22_7 300 P22_8 301 P22_9 302 P22_10 303 P22_11 304 P22_12 305 P23 306 P24 307 CONFIANZAPTE 308
+CONFIANZAOPOSIC 309 PREFPTE 310-311 P28_1 312-313 P28_2 314-315 P28_3 316-317 P28_4 318-319
+P28_5 320-321 P28_6 322-323 P28_7 324-325 P28_8 326-327 P28_9 328-329 P28_10 330-331 P28_11 332-333
+P28_12 334-335 P28_13 336-337 P28_14 338-339 P28_15 340-341 P28_16 342-343 P28_17 344-345 P28_18 346-347
+P28_19 348-349 P28_20 350-351 P28_21 352-353 P28_22 354-355 INTENCIONG 356-357 INTENCIONGR 358-359
+INTENCIONGALTER 360-361 INTENCIONGALTERR 362-363 SIMPATIA 364-365 VOTOSIMG 366-367 ESCIDEOL 368-369
+ESCAIDEOLLIDERES_1 370-371 ESCAIDEOLLIDERES_2 372-373 ESCAIDEOLLIDERES_3 374-375 ESCAIDEOLLIDERES_4 376-377
+ESCAIDEOLLIDERES_5 378-379 VALORALIDERES_1 380-381 VALORALIDERES_2 382-383 VALORALIDERES_3 384-385
+VALORALIDERES_4 386-387 VALORALIDERES_5 388-389 FIDEVOTO 390 PARTICIPACIONG 391 RECUVOTOG 392-393
+CERCANIA 394-395 ESCUELA 396 NIVELESTENTREV 397-398 RELIGION 399 ECIVIL 400 SITLAB 401 CNO11 402-403
+CLASESOCIAL 404-405 CLASESUB 406 IA_I501 407-409 IA_I502 410-412 IA_I503 413-415 IA_I504 416-418
+IA_I505 419-421 IA_I506 422-424 IA_I507 425-427 IA_I508 428-430 IA_I509 431-433 IA_I510 434-436
+IA_I511 437-439 IA_I512 440-442 IA_I513 443-445 IA_I514 446-448 IA_I515 449-451 IA_I516 452-454
+IA_I517 455-457 IA_I518 458-460 IA_I519 461-463 IA_I520 464-466 IA_I521 467-469 IA_I522 470-472
+IA_I523 473-475 IA_I524 476-478 IA_I525 479-481 IA_I526 482-484 IA_I528 485-487 IA_I529 488-490
+IA_I530 491-493 IA_I531 494-496 IA_I532 497-499 IA_I533 500-502 IA_I534 503-505 IA_I535 506-508
+IA_I536 509-511 IA_I537 512-514 IA_I538 515-517 IA_I539 518-520 IA_I540 521-523 IA_I541 524-526
+IA_I542 527-529 IA_I543 530-532 IA_OBS0 533-535 IA_OBS1 536-538 IA_OBS2 539-541 IA_E1_DIA 542-543
+IA_E1_MES 544-545 IA_E1_ANYO 546-547 IA_E2 548 IA_E3 549-551 IA_E4 552 IA_VALIDA 553 IA_APLAZADA 554
+IA_MODIFICADA 555 IA_SUPERVISADA 556 IA_C2 557 IA_C2A 558 IA_C2B_1 559 IA_C2B_2 560 IA_C2B_3 561
+IA_C2B_4 562 IA_C2B_5 563 IA_C2B_6 564 IA_C2B_7 565 IA_C2B_8 566 IA_C2B_9 567 IA_C2B_10 568
+IA_C2B_11 569 IA_C2B_12 570 IA_C2B_13 571 IA_C2B_14 572 IA_C2B_15 573 IA_C2B_16 574 IA_C2B_17 575
+IA_C2B_18 576 IA_C2B_19 577 IA_C2B_20 578 IA_C2B_21 579 IA_C2B_22 580 IA_C2B_23 581 IA_C2B_24 582
+IA_C2B_25 583 IA_C3 584 IA_C4 585-589 RECUVOTOGR 590-591 PRACTICARELIG 592 RELIGIONR 593 CNO11R 594-595
+RECUERDO 596-597 ESTUDIOS 598 PESO 599-605(5) PESOCCAA 606-612(5) .
+
+VARIABLE LABELS
+ESTUDIO 'Código del estudio'
+/CUES 'Cuestionario'
+/CCAA 'Comunidad autónoma'
+/PROV 'Provincia'
+/MUN 'Municipio'
+/CAPITAL 'Capital'
+/TAMUNI 'Tamaño de municipio'
+/ENTREV 'Entrevistador/a'
+/TIPO_TEL 'Tipo de teléfono'
+/SEXO 'Sexo de la persona entrevistada'
+/EDAD 'Edad de la persona entrevistada'
+/P0 'Nacionalidad de la persona entrevistada'
+/P1 'Grado de preocupación ante la situación del coronavirus COVID-19'
+/P2 'Efectos de la crisis del COVID-19 que más preocupan personalmente'
+/P3 'Opinión sobre si habría que tomar medidas de control y aislamiento más exigentes o continuar como en la actualidad'
+/P4 'Valoración sobre si ha pasado lo peor o no de la situación sanitaria generada por el coronavirus'
+/SERSANIENTRE 'Contacto con los servicios sanitarios por pensar que se tienen síntomas de la COVID-19'
+/P4ANNO 'Momento de contacto con los servicios sanitarios'
+/P4MES 'Momento de contacto con los servicios sanitarios'
+/P4A0_1_20 'Año 2020'
+/P4A0_2_21 'Año 2021'
+/SERVIENTRE_1 'A mi médico/a de atención primaria'
+/SERVIENTRE_2 'Al servicio de urgencias de atención primaria'
+/SERVIENTRE_3 'Al servicio de urgencias del hospital'
+/SERVIENTRE_4 'Al 061/112'
+/SERVIENTRE_5 'A un teléfono 900 que la comunidad puso para estos casos'
+/SERVIENTRE_7 'A través de la empresa'
+/SERVIENTRE_8 'A un/a médico/a privado/a de una sociedad'
+/SERVIENTRE_10 'A través de medios telemáticos'
+/SERVIENTRE_11 'Se pusieron en contacto con él/ella (rastreadores/as, positivo familiar, Salud Responde)'
+/SERVIENTRE_96 'Otras respuestas'
+/SERVIENTRE_97 'Ninguno'
+/SERVIENTRE_99 'N.C.'
+/SINTOMASENTRE_1 'Fiebre'
+/SINTOMASENTRE_2 'Tos seca'
+/SINTOMASENTRE_3 'Cansancio'
+/SINTOMASENTRE_4 'Molestias y dolores musculares'
+/SINTOMASENTRE_5 'Dolor de garganta'
+/SINTOMASENTRE_6 'Diarrea'
+/SINTOMASENTRE_7 'Conjuntivitis'
+/SINTOMASENTRE_8 'Dolor de cabeza'
+/SINTOMASENTRE_9 'Pérdida del sentido del olfato y/o gusto'
+/SINTOMASENTRE_10 'Erupciones cutáneas'
+/SINTOMASENTRE_11 'Inflamación o dermatitis de la lengua'
+/SINTOMASENTRE_12 'Dermatitis en manos y pies'
+/SINTOMASENTRE_13 'Dificultad para respirar o sensación de falta de aire'
+/SINTOMASENTRE_14 'Dolor o presión en el pecho'
+/SINTOMASENTRE_15 'Incapacidad para hablar o moverse'
+/SINTOMASENTRE_17 'Por contacto con una persona positiva'
+/SINTOMASENTRE_18 'Por su trabajo'
+/SINTOMASENTRE_19 'Malestar general (malestar, mareos, vértigos, desmayos, frío, escalofríos)'
+/SINTOMASENTRE_20 'Síntomas de resfriado/gripe (congestión nasal, mocos, gripe, resfriado, constipado, placas en la garganta, anginas'
+/SINTOMASENTRE_21 'Síntomas gastrointestinales (náuseas, vómitos, pérdida de apetito, dolor de estómago, gastroenteritis)'
+/SINTOMASENTRE_97 'Ninguno'
+/SINTOMASENTRE_96 'Otro/s'
+/SINTOMASENTRE_22 'Otro/s síntomas (agrupada)'
+/SINTOMASENTRE_98 'N.S./N.R.'
+/SINTOMASENTRE_99 'N.C.'
+/ATENCENTRE 'Valoración de la atención sanitaria recibida en los servicios sanitarios a los que se acudió a causa del COVID-19'
+/AISLAENTRE 'Información recibida en los servicios sanitarios a los que se acudió a causa del COVID-19 sobre el mantenimiento de medidas de aislamiento'
+/PRUEBAENTRE 'Realización de la prueba del coronavirus en los servicios sanitarios a los que se acudió a causa del COVID-19'
+/CORONAENTRE 'Diagnosticado de infección por COVID-19 en la prueba del coronavirus'
+/EVOLUCENTRE 'Evolución de la enfermedad en los diagnosticados por COVID-19 en la prueba'
+/ATENCIONENTRE_1 'El/la médico/a de atención primaria'
+/ATENCIONENTRE_2 'La/el enfermera/o de atención primaria'
+/ATENCIONENTRE_3 'El 061/112'
+/ATENCIONENTRE_4 'Otros/as profesionales sanitarios/as'
+/ATENCIONENTRE_5 'El/la médico/a de la sociedad privada'
+/ATENCIONENTRE_7 'No tuve seguimiento por ningún/a profesional sanitario/a'
+/ATENCIONENTRE_9 'N.C.'
+/FORMAENTRE_1 'Telefónica'
+/FORMAENTRE_2 'A través de Internet'
+/FORMAENTRE_3 'Vinieron a visitarme a casa'
+/FORMAENTRE_4 'Acudí al centro de salud'
+/FORMAENTRE_5 'En algún momento acudí a urgencias del hospital'
+/FORMAENTRE_96 'Otras respuestas'
+/FORMAENTRE_99 'N.C.'
+/VALORACENTRE 'Valoración de la asistencia sanitaria recibida durante la convalecencia en el hogar por COVID-19'
+/SERVIOTROSCONVI 'Contacto con los servicios sanitarios por síntomas de coronavirus de la persona conviviente'
+/NUMPERSONAS 'Número de personas convivientes que han contactado con los servicios sanitarios'
+/EDADPERSONAS_1 'Primera persona conviviente'
+/EDADPERSONAS_2 'Segunda persona conviviente'
+/EDADPERSONAS_3 'Tercera persona conviviente'
+/EDADPERSONAS_4 'Cuarta persona conviviente'
+/EDADPERSONAS_5 'Quinta persona conviviente'
+/EDADPERSONAS_6 'Sexta persona conviviente'
+/DURACONVI_SUB1_1 'Primera persona conviviente'
+/DURACONVI_SUB2_1 'Primera persona conviviente'
+/DURACONVI_SUB1_2 'Segunda persona conviviente'
+/DURACONVI_SUB2_2 'Segunda persona conviviente'
+/DURACONVI_SUB1_3 'Tercera persona conviviente'
+/DURACONVI_SUB2_3 'Tercera persona conviviente'
+/DURACONVI_SUB1_4 'Cuarta persona conviviente'
+/DURACONVI_SUB2_4 'Cuarta persona conviviente'
+/DURACONVI_SUB1_5 'Quinta persona conviviente'
+/DURACONVI_SUB2_5 'Quinta persona conviviente'
+/DURACONVI_SUB1_6 'Sexta persona conviviente'
+/DURACONVI_SUB2_6 'Sexta persona conviviente'
+/DURACONVI1 'Año 2020'
+/DURACONVI2 'Año 2020'
+/DURACONVI3 'Año 2020'
+/DURACONVI4 'Año 2020'
+/DURACONVI5 'Año 2020'
+/DURACONVI6 'Año 2020'
+/DURACONVI1_1 'Año 2021'
+/DURACONVI2_1 'Año 2021'
+/DURACONVI3_1 'Año 2021'
+/DURACONVI4_1 'Año 2021'
+/DURACONVI5_1 'Año 2021'
+/DURACONVI6_1 'Año 2021'
+/SERVICONVI_1 'Al médico/a de atención primaria de la persona conviviente'
+/SERVICONVI_2 'Al servicio de urgencias de atención primaria'
+/SERVICONVI_3 'Al servicio de urgencias del hospital'
+/SERVICONVI_4 'Al 061/112'
+/SERVICONVI_5 'A un teléfono 900 que la comunidad puso para estos casos'
+/SERVICONVI_7 'A través de la empresa de la persona conviviente'
+/SERVICONVI_8 'A un/a médico/a privado/a de una sociedad de la persona conviviente'
+/SERVICONVI_10 'A través de medios telemáticos'
+/SERVICONVI_11 'Se pusieron en contacto con él/ella (rastreadores/as, positivo familiar, Salud Responde)'
+/SERVICONVI_96 'Otras respuestas'
+/SERVICONVI_97 'Ninguno'
+/SERVICONVI_98 'N.S./N.R.'
+/SERVICONVI_99 'N.C.'
+/SINTOMASCONVI_1 'Fiebre'
+/SINTOMASCONVI_2 'Tos seca'
+/SINTOMASCONVI_3 'Cansancio'
+/SINTOMASCONVI_4 'Molestias y dolores musculares'
+/SINTOMASCONVI_5 'Dolor de garganta'
+/SINTOMASCONVI_6 'Diarrea'
+/SINTOMASCONVI_7 'Conjuntivitis'
+/SINTOMASCONVI_8 'Dolor de cabeza'
+/SINTOMASCONVI_9 'Pérdida del sentido del olfato y/o gusto'
+/SINTOMASCONVI_10 'Erupciones cutáneas'
+/SINTOMASCONVI_11 'Inflamación o dermatitis de la lengua'
+/SINTOMASCONVI_12 'Dermatitis en manos y pies'
+/SINTOMASCONVI_13 'Dificultad para respirar o sensación de falta de aire'
+/SINTOMASCONVI_14 'Dolor o presión en el pecho'
+/SINTOMASCONVI_15 'Incapacidad para hablar o moverse'
+/SINTOMASCONVI_17 'Por contacto con una persona positiva'
+/SINTOMASCONVI_18 'Por su trabajo'
+/SINTOMASCONVI_19 'Malestar general (malestar, mareos, vértigos, desmayos, frío, escalofríos)'
+/SINTOMASCONVI_20 'Síntomas de resfriado/gripe (congestión nasal, mocos, gripe, resfriado, constipado, placas en la garganta, anginas)'
+/SINTOMASCONVI_21 'Síntomas gastrointestinales (náuseas, vómitos, pérdida de apetito, dolor de estómago, gastroenteritis)'
+/SINTOMASCONVI_97 'Ninguno'
+/SINTOMASCONVI_96 'Otro/s'
+/SINTOMASCONVI_22 'Otro/s síntomas (agrupada)'
+/SINTOMASCONVI_98 'N.S./N.R.'
+/SINTOMASCONVI_99 'N.C.'
+/ATENCCONVI 'Valoración de la atención sanitaria recibida en los servicios sanitarios a los que acudió la persona conviviente a causa de la COVID-19'
+/AISLACONVI 'Información recibida en los servicios sanitarios a los que acudió la persona conviviente a causa de la COVID-19 sobre el mantenimiento de medidas de aislamiento'
+/PRUEBACONVI 'Realización de la prueba del coronavirus en los servicios sanitarios a los que acudió la persona conviviente a causa de la COVID-19'
+/CORONACONVI 'Diagnóstico de infección por COVID-19 en la prueba del coronavirus de la persona conviviente'
+/EVOLUCCONVI 'Evolución de la enfermedad en la persona conviviente diagnosticada por COVID-19 en la prueba'
+/ATENCIONCONVI_1 'El/la médico/a de atención primaria'
+/ATENCIONCONVI_2 'La/el enfermera/o de atención primaria'
+/ATENCIONCONVI_3 'El 061/112'
+/ATENCIONCONVI_4 'Otros/as profesionales sanitarios/as'
+/ATENCIONCONVI_5 'El/la médico/a de la sociedad privada de la persona conviviente'
+/ATENCIONCONVI_7 'No tuvo seguimiento por ningún/a profesional sanitario/a'
+/ATENCIONCONVI_8 'N.S./N.R.'
+/ATENCIONCONVI_9 'N.C.'
+/FORMACONVI_1 'Telefónica'
+/FORMACONVI_2 'A través de Internet'
+/FORMACONVI_3 'Vinieron a visitarla a casa'
+/FORMACONVI_4 'Acudió al centro de salud'
+/FORMACONVI_5 'En algún momento acudió a urgencias del hospital'
+/FORMACONVI_96 'Otras respuestas'
+/FORMACONVI_98 'N.S./N.R.'
+/FORMACONVI_99 'N.C.'
+/VALORACONVI 'Valoración de la asistencia sanitaria recibida durante la convalecencia en el hogar por COVID-19 de la persona conviviente'
+/P4CORONA_1 'Algún/a familiar no conviviente'
+/P4CORONA_2 'Algún/a amigo/a'
+/P4CORONA_3 'Algún/a conocido/a'
+/P4MUERTOS_1 'Algún/a familiar no conviviente'
+/P4MUERTOS_2 'Algún/a amigo/a'
+/P4MUERTOS_3 'Algún/a conocido/a'
+/P5 'Disposición a vacunarse cuando la vacuna esté disponible'
+/P5A 'Razón principal para no querer vacunarse inmediatamente'
+/P6 'Determinación de quién le gustaría que se hiciera cargo de la lucha contra la pandemia'
+/P7 'Valoración del comportamiento de los/as españoles/as en la forma de afrontar las medidas contra el COVID-19'
+/P8 'Grado en el que la pandemia le afecta en su vida personal'
+/P9 'Grado en el que la pandemia le afecta en su vida social'
+/P10A_1 'Por el distanciamiento con los seres queridos'
+/P10A_2 'Por el trabajo y/o economía personal'
+/P10A_3 'Por el estado anímico negativo (ansiedad, tristeza...)'
+/P10A_4 'Las restricciones y libertad de movimientos'
+/P10A_5 'Por miedo al contagio suyo o de otras personas'
+/P10A_6 'Por el cambio de las condiciones laborales'
+/P10A_7 'Por el aislamiento y el confinamiento'
+/P10A_8 'Por los cambios en la vida cotidiana'
+/P10A_9 'Por pérdida de trabajo (despidos, cierres, no encontrar...)'
+/P10A_10 'Por los cambios de rutina en clases'
+/P10A_96 'Otras respuestas'
+/P10A_98 'N.S.'
+/P10A_99 'N.C.'
+/P10B_1 'Por la distancia respecto a la gente'
+/P10B_2 'Por la distancia respecto a los/as amigos/as'
+/P10B_3 'Por el aislamiento, confinamiento y no poder salir'
+/P10B_4 'Por la distancia respecto a la familia'
+/P10B_5 'Por el cese o limitación de actividades culturales, de ocio y deportivas'
+/P10B_6 'Por el miedo a que se produzcan contagios en las relaciones sociales y familiares'
+/P10B_7 'Aspectos económicos, laborales y/o profesionales'
+/P10B_8 'Aspectos psicológicos, anímicos y emocionales'
+/P10B_9 'Por el cese o limitación de actividades de hostelería y restauración'
+/P10B_10 'Por la ausencia de contacto físico en las relaciones sociales, pérdida de calidad en las relaciones'
+/P10B_96 'Otras respuestas'
+/P10B_98 'N.S.'
+/P10B_99 'N.C.'
+/P11 'Medidas personales adoptadas contra la COVID al margen de las adoptadas por las autoridades'
+/LIDERESCONOCE_1 'Pedro Sánchez'
+/LIDERESCONOCE_2 'Pablo Casado'
+/LIDERESCONOCE_3 'Pablo Iglesias'
+/LIDERESCONOCE_4 'Santiago Abascal'
+/LIDERESCONOCE_5 'Inés Arrimadas'
+/LIDERESVALORA_1_1 'Pedro Sánchez'
+/LIDERESVALORA_1_2 'Pablo Casado'
+/LIDERESVALORA_1_3 'Pablo Iglesias'
+/LIDERESVALORA_1_4 'Santiago Abascal'
+/LIDERESVALORA_1_5 'Inés Arrimadas'
+/P14 'Valoración de la situación económica general de España'
+/P15 'Valoración de la situación económica personal actual'
+/PESPANNA1 'Primer problema'
+/PESPANNA2 'Segundo problema'
+/PESPANNA3 'Tercer problema'
+/PPERSONAL1 'Primer problema'
+/PPERSONAL2 'Segundo problema'
+/PPERSONAL3 'Tercer problema'
+/P18 'Posicionamiento ante el cambio horario en el año 2021'
+/P19 'Preferencia por el horario de invierno o de verano'
+/P20 'Grado de importancia del consumo de alcohol entre los/as menores de edad en España'
+/P21 'Acuerdo con  limitación del consumo de alcohol entre los/as menores de edad en España'
+/P22_1 'Prohibir la venta de alcohol a menores en general'
+/P22_2 'Prohibir a los/as menores el consumo de alcohol en la calle y lugares públicos'
+/P22_3 'Prohibir los botellones y el consumo de alcohol en la calle en general'
+/P22_4 'Prohibir a las tiendas la venta de alcohol a partir de las 10 de la noche'
+/P22_5 'Prohibir la venta ambulante de bebidas alcohólicas en la calle (lateros, etc.)'
+/P22_6 'Prohibir que se hagan ofertas del tipo: barra libre, 2x 1, etc.'
+/P22_7 'Fijar alcoholemia cero para los/as menores que conduzcan ciclomotores o motocicletas'
+/P22_8 'Prohibir la publicidad bebidas alcohólicas en vallas, marquesinas y en general donde se vea desde la calle'
+/P22_9 'Limitar la publicidad de bebidas alcohóicas en los tramos de máxima audiencia infantil y juvenil'
+/P22_10 'Prohibir la venta de alcohol en lugares donde se realicen actividades a las que asistan menores'
+/P22_11 'Limitar la publicidad de bebidas alcohólicas en Internet'
+/P22_12 'Prohibir establecimientos donde se venda y consuma alcohol cerca de centros educativos'
+/P23 'Posicionamiento ante la legalización de la venta de marihuana'
+/P24 'Posicionamiento ante la legalización del consumo de marihuana para uso médico'
+/CONFIANZAPTE 'Grado de confianza en el presidente del Gobierno central: Pedro Sánchez'
+/CONFIANZAOPOSIC 'Grado de confianza en el líder del principal partido de la oposición (PP): Pablo Casado'
+/PREFPTE 'Preferencia personal como presidente del Gobierno central'
+/P28_1 'José Luis Ábalos'
+/P28_2 'Ione Belarra'
+/P28_3 'Nadia Calviño'
+/P28_4 'Carmen Calvo'
+/P28_5 'Juan Carlos Campo'
+/P28_6 'Manuel Castells'
+/P28_7 'Isabel Celaá'
+/P28_8 'Carolina Darias'
+/P28_9 'Yolanda Díaz'
+/P28_10 'Pedro Duque'
+/P28_11 'José Luis Escrivá'
+/P28_12 'Alberto Garzón'
+/P28_13 'Arancha González Laya'
+/P28_14 'Fernando Grande-Marlaska'
+/P28_15 'Miquel Iceta'
+/P28_16 'Reyes Maroto'
+/P28_17 'María Jesús Montero'
+/P28_18 'Irene Montero'
+/P28_19 'Luis Planas'
+/P28_20 'Teresa Ribera'
+/P28_21 'Margarita Robles'
+/P28_22 'José Manuel Rodríguez Uribes'
+/INTENCIONG 'Intención de voto en supuestas elecciones generales'
+/INTENCIONGR 'Intención de voto en supuestas elecciones generales'
+/INTENCIONGALTER 'Intención de voto alternativo en supuestas elecciones generales'
+/INTENCIONGALTERR 'Intención de voto alternativo en supuestas elecciones generales [recodificada]'
+/SIMPATIA 'Partido político por el que se siente más simpatía en las elecciones generales (con filtro)'
+/VOTOSIMG 'Voto+simpatía en supuestas elecciones generales'
+/ESCIDEOL 'Escala de autoubicación ideológica (1-10)'
+/ESCAIDEOLLIDERES_1 'Pedro Sánchez'
+/ESCAIDEOLLIDERES_2 'Pablo Casado'
+/ESCAIDEOLLIDERES_3 'Pablo Iglesias'
+/ESCAIDEOLLIDERES_4 'Santiago Abascal'
+/ESCAIDEOLLIDERES_5 'Inés Arrimadas'
+/VALORALIDERES_1 'Pedro Sánchez'
+/VALORALIDERES_2 'Pablo Casado'
+/VALORALIDERES_3 'Pablo Iglesias'
+/VALORALIDERES_4 'Santiago Abascal'
+/VALORALIDERES_5 'Inés Arrimadas'
+/FIDEVOTO 'Fidelidad de voto en elecciones'
+/PARTICIPACIONG 'Participación electoral en las elecciones generales de noviembre de 2019'
+/RECUVOTOG 'Recuerdo de voto en las elecciones generales de noviembre de 2019 de los votantes'
+/CERCANIA 'Partido político que considera más cercano a sus ideas'
+/ESCUELA 'Escolarización de la persona entrevistada'
+/NIVELESTENTREV 'Nivel de estudios alcanzado por la persona entrevistada'
+/RELIGION 'Religiosidad de la persona entrevistada'
+/ECIVIL 'Estado civil de la persona entrevistada'
+/SITLAB 'Situación laboral de la persona entrevistada'
+/CNO11 'Ocupación de la persona entrevistada'
+/CLASESOCIAL 'Clase social subjetiva de la persona entrevistada'
+/CLASESUB 'Identificación subjetiva de clase'
+/IA_I501 'Dificultad de acceso al edificio, casa, urbanización, etc'
+/IA_I502 'Viviendas en las que no hay nadie'
+/IA_I503 'Viviendas en las que se niegan a recibir ninguna explicación'
+/IA_I504 'Negativas de hombres a realizar la entrevista'
+/IA_I505 'Negativas de mujeres a realizar la entrevista'
+/IA_I506 'Contactos fallidos por no cumplir cuotas'
+/IA_I507 'Contactos fallidos por no ser una vivienda (oficinas, consultas medicas, etc.)'
+/IA_I508 'Viviendas de población extranjera'
+/IA_I509 '01.  No quiere colaborar'
+/IA_I510 '02.  Falta de tiempo. Está muy ocupado/a'
+/IA_I511 '03.  Falta de interés por hacer una encuesta'
+/IA_I512 '04.  Desconfianza hacia las encuestas.'
+/IA_I513 '05.  Desconfianza hacia el CIS'
+/IA_I514 '06.  Rehúsa porque su pareja/familia/hogar no quiere.'
+/IA_I515 '07.  Lo considera una pérdida de tiempo'
+/IA_I516 '08.  No sabe lo suficiente/nada del tema, demasiado difícil'
+/IA_I517 '09.  El tema no le interesa.'
+/IA_I518 '10.  Resulta demasiada larga.'
+/IA_I519 '11.  No le gusta el ordenador.'
+/IA_I520 '96. Otras'
+/IA_I521 '99. No contesta'
+/IA_I522 '00. Error al iniciar'
+/IA_I523 'Teléfono apagado/fuera de cobertura'
+/IA_I524 'Negativas a realizar la entrevista'
+/IA_I525 'Interrupción llamada'
+/IA_I526 'Dificutad con el idioma'
+/IA_I528 'Contacto fallido por no ser una vivienda/persona'
+/IA_I529 'Contacto fallido por no ser elegible'
+/IA_I530 'Incapacidad para responder/ininteligible'
+/IA_I531 'Otras'
+/IA_I532 'No le gusta dar información por teléfono'
+/IA_I533 'No tiene la garantía de la privaciad de sus datos'
+/IA_I534 'Difitultad con el idioma'
+/IA_I535 'Incapacidad para responder/ininteligile'
+/IA_I536 'No elegible'
+/IA_I537 'Rechazo por falta de tiempo o de interés en la encuesta'
+/IA_I538 'Rechazo por desconfianza hacia las encuestas'
+/IA_I539 'Rechazo por desconfianza hacia el CIS'
+/IA_I540 'Rechazo por desconfiar de la llamada o por mantener la privacidad'
+/IA_I541 'Rechaza ser encuestado/a en el idioma del cuestionario'
+/IA_I542 'Rechazo por otras razones o sin dar explicaciones'
+/IA_I543 'Otras incidencias'
+/IA_OBS0 'Mostrar tarjeta'
+/IA_OBS1 'Pregunta incómoda'
+/IA_OBS2 'Pregunta explicada'
+/IA_E1_DIA 'Día de realización'
+/IA_E1_MES 'Mes de realización'
+/IA_E1_ANYO 'Año de realización'
+/IA_E2 'Día de la semana que se realiza la entrevista'
+/IA_E3 'Duración de la entrevista en minutos'
+/IA_E4 'Hora de realización'
+/IA_VALIDA 'Entrevista válida'
+/IA_APLAZADA 'Entrevista con aplazamientos'
+/IA_MODIFICADA 'Entrevista modificada'
+/IA_SUPERVISADA 'Entrevista supervisada'
+/IA_C2 'Valoración de la supervisión'
+/IA_C2A 'Resultado supervisión'
+/IA_C2B_1 'Motivos entrevista incorrecta: Dirección inexistente (no existe número en la calle, piso, etc...)'
+/IA_C2B_2 'Motivos entrevista incorrecta: Dirección ilocalizable (faltan datos: número, piso, letra, etc...)'
+/IA_C2B_3 'Motivos entrevista incorrecta: No coinciden datos personales y no ha sido realizada en la dirección que se hace constar'
+/IA_C2B_4 'Motivos entrevista incorrecta: Negativa que ofrece dudas. Coinciden datos personales pero niegan haber realizado la entrevista'
+/IA_C2B_5 'Motivos entrevista incorrecta: Realizada a una persona, recogiendo los datos de otra'
+/IA_C2B_6 'Motivos entrevista incorrecta: Realizada cambiando género del entrevistado'
+/IA_C2B_7 'Motivos entrevista incorrecta: Cambio de edad por otra de un tramo contiguo'
+/IA_C2B_8 'Motivos entrevista incorrecta: Cambio de edad por otra de un tramo no contiguo'
+/IA_C2B_9 'Motivos entrevista incorrecta: Realizada fuera de la vivienda pero vive en la sección electoral'
+/IA_C2B_10 'Motivos entrevista incorrecta: Realizada fuera de la vivienda, y no vive en la sección electoral'
+/IA_C2B_11 'Motivos entrevista incorrecta: Realizada en dirección que no corresponde a la sección electoral'
+/IA_C2B_12 'Motivos entrevista incorrecta: Realizada, pero no respeta las normas de ruta'
+/IA_C2B_13 'Motivos entrevista incorrecta: Se detecta que no ha hecho todas las preguntas'
+/IA_C2B_14 'Motivos entrevista incorrecta: Negativa que ofrece dudas: no coincide la dirección ni datos personales. Posibilidad de error en el teléfono'
+/IA_C2B_15 'Motivos entrevista incorrecta: No hay grabación'
+/IA_C2B_16 'Motivos entrevista incorrecta: Realizada en otro idioma'
+/IA_C2B_17 'Motivos entrevista incorrecta: Realizada en un establecimiento o negocio, no es un domicilio'
+/IA_C2B_18 'Motivos entrevista incorrecta: Valores de cuota anotados incorrectamente, distintos de sexo y edad (provincia/municipio/situación laboral)'
+/IA_C2B_19 'Motivos entrevista incorrecta: No se lee el protocolo de inicio o fin de la encuesta'
+/IA_C2B_20 'Motivos entrevista incorrecta: Entrevista interrumpida y autocompletada'
+/IA_C2B_21 'Motivos entrevista incorrecta: No se leen  literalmente las preguntas y/o las opciones de respuesta'
+/IA_C2B_22 'Motivos entrevista incorrecta: Induce las respuestas'
+/IA_C2B_23 'Motivos entrevista incorrecta: No se recogen fielmente las respuestas espontáneas'
+/IA_C2B_24 'Motivos entrevista incorrecta: Lee las categorías de respuesta cuando ésta es espontánea'
+/IA_C2B_25 'Motivos entrevista incorrecta: Codificación incorrecta por parte del entrevistador (Ej. estudios, problemas, preguntas precodificadas…)'
+/IA_C3 'Resultado final'
+/IA_C4 'Supervisor'
+/RECUVOTOGR 'Recuerdo de voto en las elecciones generales de noviembre de 2019 de los votantes [recodificada]'
+/PRACTICARELIG 'Frecuencia de asistencia a oficios religiosos'
+/RELIGIONR 'Religiosidad de la persona entrevistada'
+/CNO11R 'Población activa e inactiva'
+/RECUERDO 'Recuerdo de voto en las elecciones generales de noviembre de 2019'
+/ESTUDIOS 'Estudios de la persona entrevistada'
+/PESO 'Ponderación'
+/PESOCCAA 'Ponderación autonómica'
+.
+
+VALUE LABELS
+ESTUDIO
+/CUES
+/CCAA
+1 'Andalucía' 2 'Aragón' 3 'Asturias (Principado de)' 4 'Balears (Illes)' 5 'Canarias' 6 'Cantabria'
+7 'Castilla-La Mancha' 8 'Castilla y León' 9 'Cataluña' 10 'Comunitat Valenciana' 11 'Extremadura'
+12 'Galicia' 13 'Madrid (Comunidad de)' 14 'Murcia (Región de)' 15 'Navarra (Comunidad Foral de)'
+16 'País Vasco' 17 'Rioja (La)' 18 'Ceuta (Ciudad Autónoma de)' 19 'Melilla (Ciudad Autónoma de)'
+/PROV
+1 'Araba/Álava' 2 'Albacete' 3 'Alicante/Alacant' 4 'Almería' 33 'Asturias' 5 'Ávila' 6 'Badajoz'
+7 'Balears (Illes)' 8 'Barcelona' 9 'Burgos' 10 'Cáceres' 11 'Cádiz' 39 'Cantabria' 12 'Castellón/Castelló'
+13 'Ciudad Real' 14 'Córdoba' 15 'Coruña (A)' 16 'Cuenca' 17 'Girona' 18 'Granada' 19 'Guadalajara'
+20 'Gipuzkoa' 21 'Huelva' 22 'Huesca' 23 'Jaén' 24 'León' 25 'Lleida' 27 'Lugo' 28 'Madrid'
+29 'Málaga' 30 'Murcia' 31 'Navarra' 32 'Ourense' 34 'Palencia' 35 'Palmas (Las)' 36 'Pontevedra'
+26 'Rioja (La)' 37 'Salamanca' 38 'Santa Cruz de Tenerife' 40 'Segovia' 41 'Sevilla' 42 'Soria'
+43 'Tarragona' 44 'Teruel' 45 'Toledo' 46 'Valencia/València' 47 'Valladolid' 48 'Bizkaia' 49 'Zamora'
+50 'Zaragoza' 51 'Ceuta' 52 'Melilla'
+/MUN
+0 'Mun.<=100.000 hab. no capitales de CA o provincia' 1 'Ceuta / Melilla' 3 'Albacete' 4 'Algeciras'
+5 'Alcalá de Henares' 6 'Alcobendas' 7 'Alcorcón' 12 'Cádiz' 13 'Almería / Barakaldo' 14 'Alicante/Alacant'
+15 'Badalona / Badajoz' 16 'Cartagena / Palmas de Gran Canaria (Las)' 19 'Ávila / Barcelona'
+20 'Bilbao / Jerez de la Frontera' 21 'Córdoba' 23 'La Laguna' 24 'Gijón' 26 'Telde' 28 'Lugo'
+30 'Coruña (A) / Murcia' 34 'Ciudad Real' 37 'Cáceres' 38 'Pontevedra / Santa Cruz de Tenerife / Dos Hermanas'
+40 'Castellón de la Plana/Castelló de la Plana / Palma de Mallorca' 41 'Huelva' 44 'Oviedo'
+50 'Jaén' 54 'Ourense' 57 'Vigo' 58 'Fuenlabrada' 59 'Burgos / Vitoria-Gasteiz' 65 'Elche/Elx / Getafe'
+67 'Málaga' 69 'Donostia/San Sebastián / Marbella' 74 'Leganés' 75 'Santander' 78 'Cuenca / Santiago de Compostela'
+79 'Girona / Madrid' 83 'Mérida' 87 'Granada' 89 'León / Logroño' 91 'Sevilla' 92 'Móstoles'
+101 'Hospitalet de Llobregat' 106 'Parla' 120 'Lleida / Palencia' 121 'Mataró' 123 'Reus' 125 'Huesca'
+130 'Guadalajara' 148 'Tarragona / Torrejón de Ardoz' 168 'Toledo' 173 'Soria' 186 'Valladolid'
+187 'Sabadell' 194 'Segovia' 201 'Pamplona/Iruña' 216 'Teruel' 245 'Santa Coloma de Gramenet'
+250 'València' 274 'Salamanca' 275 'Zamora' 279 'Terrassa' 297 'Zaragoza'
+/CAPITAL
+1 'Capital de CC.AA.' 2 'Capital de provincia' 3 'Otros municipios'
+/TAMUNI
+1 'Menos o igual a 2.000 habitantes' 2 '2.001 a 10.000 habitantes' 3 '10.001 a 50.000 habitantes'
+4 '50.001 a 100.000 habitantes' 5 '100.001 a 400.000 habitantes' 6 '400.001 a 1.000.000 habitantes'
+7 'Más de 1.000.000 habitantes'
+/ENTREV
+0 'Anonimizado'
+/TIPO_TEL
+1 'Fijo' 2 'Móvil'
+/SEXO
+1 'Hombre' 2 'Mujer'
+/EDAD
+99 'N.C.'
+/P0
+1 'La nacionalidad española' 2 'La nacionalidad española y otra' 3 'Otra nacionalidad'
+/P1
+1 'Mucho' 2 'Bastante' 3 'Poco' 4 '(NO LEER) Regular' 5 'Nada' 8 'N.S.' 9 'N.C.'
+/P2
+1 'Los efectos sobre la salud' 2 'Los efectos sobre la economía y el empleo' 3 '(NO LEER) Ambos por igual'
+4 '(NO LEER) Ni unos ni otros' 8 'N.S.' 9 'N.C.'
+/P3
+1 'Habría que tomar medidas más exigentes' 2 'Podíamos continuar como estábamos' 3 '(NO LEER) Medidas dependiendo de cada zona'
+4 '(NO LEER) Medidas menos exigentes' 5 '(NO LEER) Otras medidas anticipatorias, más eficaces y mejor planteadas'
+6 '(NO LEER) Medidas de prevención, más medios técnicos y humanos (haciendo más pruebas, más rastreadores/as,...)'
+7 '(NO LEER) Depende de cada situación' 8 '(NO LEER) Cumplimiento de las medidas, más control y penalizaciones'
+9 '(NO LEER) Mejor gestión y coordinación política' 10 '(NO LEER) Medidas de concienciación ciudadana y responsabilidad'
+11 '(NO LEER) No tomar ninguna medida' 12 '(NO LEER) Medidas tomadas por un equipo de expertos/as'
+96 'Otras respuestas' 98 '(NO LEER) No lo sabe, duda' 99 'N.C.'
+/P4
+1 'Lo peor ha pasado ya' 2 'Seguimos en el peor momento' 3 'Lo peor está por llegar' 8 '(NO LEER) No lo sabe, duda'
+9 'N.C.'
+/SERSANIENTRE
+1 'Sí' 2 'No' 3 '(NO LEER) Sí,  pero no consiguió contactar con los servicios sanitarios' 9 'N.C.'
+/P4ANNO
+1 '2020' 2 '2021' 0 'N.P.'
+/P4MES
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 98 'N.R.' 0 'N.P.'
+/P4A0_1_20
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 98 'N.R.' 0 'N.P.'
+/P4A0_2_21
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 98 'N.R.' 0 'N.P.'
+/SERVIENTRE_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_10
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_11
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_97
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVIENTRE_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_6
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_9
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_10
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_11
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_12
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_13
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_14
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_15
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_17
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_18
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_19
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_20
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_21
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_97
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_22
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_98
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASENTRE_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCENTRE
+1 'Muy buena' 2 'Buena' 3 '(NO LEER) Regular' 4 'Mala' 5 'Muy mala' 8 'N.S.' 9 'N.C.' 0 'N.P.'
+/AISLAENTRE
+1 'Sí' 2 'No' 9 'N.C.' 0 'N.P.'
+/PRUEBAENTRE
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.' 0 'N.P.'
+/CORONAENTRE
+1 'Sí' 2 'No' 9 'N.C.' 0 'N.P.'
+/EVOLUCENTRE
+1 'Tuve síntomas leves y la pasé en casa' 2 'Tuve síntomas importantes, pero la pasé en casa'
+3 'Tuve que ingresar en el hospital' 4 'No tuve ningún síntoma' 9 'N.C.' 0 'N.P.'
+/ATENCIONENTRE_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONENTRE_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONENTRE_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONENTRE_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONENTRE_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONENTRE_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONENTRE_9
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMAENTRE_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/VALORACENTRE
+1 'Muy buena' 2 'Buena' 3 '(NO LEER) Regular' 4 'Mala' 5 'Muy mala' 8 'N.S.' 9 'N.C.' 0 'N.P.'
+/SERVIOTROSCONVI
+1 'Sí' 2 'No' 3 'Vive sola la persona entrevistada' 4 '(NO LEER) Intentó contactar pero no lo consiguió'
+9 'N.C.' 0 'N.P.'
+/NUMPERSONAS
+1 '1 persona' 2 '2 personas' 3 '3 personas' 4 '4 personas' 5 '5 personas' 99 'N.C.' 0 'N.P.'
+/EDADPERSONAS_1
+99 'N.C.' 97 'N.P.'
+/EDADPERSONAS_2
+99 'N.C.' 97 'N.P.'
+/EDADPERSONAS_3
+99 'N.C.' 97 'N.P.'
+/EDADPERSONAS_4
+99 'N.C.' 97 'N.P.'
+/EDADPERSONAS_5
+99 'N.C.' 97 'N.P.'
+/EDADPERSONAS_6
+99 'N.C.' 97 'N.P.'
+/DURACONVI_SUB1_1
+1 '2020' 2 '2021' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB2_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB1_2
+1 '2020' 2 '2021' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB2_2
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB1_3
+1 '2020' 2 '2021' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB2_3
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB1_4
+1 '2020' 2 '2021' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB2_4
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB1_5
+1 '2020' 2 '2021' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB2_5
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB1_6
+1 '2020' 2 '2021' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI_SUB2_6
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'Contactó con los servicios sanitarios a causa del coronavirus (P4a), ninguna persona que conviva con la persona entrevis'+'tada o ella misma ha contactado con los servicios sanitarios a causa del coronavirus o N.C. (P4b) o vive solo o N.C. núm'+'ero de personas de su hogar (P4b0) '
+/DURACONVI1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.' 77 'Declara otro año'
+/DURACONVI2
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI3
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI4
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI5
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI6
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI1_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.' 77 'Declara otro año'
+/DURACONVI2_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI3_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI4_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI5_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/DURACONVI6_1
+1 'Enero' 2 'Febrero' 3 'Marzo' 4 'Abril' 5 'Mayo' 6 'Junio' 7 'Julio' 8 'Agosto' 9 'Septiembre'
+10 'Octubre' 11 'Noviembre' 12 'Diciembre' 99 'N.R./N.C.' 0 'N.P.'
+/SERVICONVI_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_10
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_11
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_97
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_98
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SERVICONVI_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_6
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_9
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_10
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_11
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_12
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_13
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_14
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_15
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_17
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_18
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_19
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_20
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_21
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_97
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_22
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_98
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/SINTOMASCONVI_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCCONVI
+1 'Muy buena' 2 'Buena' 3 '(NO LEER) Regular' 4 'Mala' 5 'Muy mala' 8 'N.S./N.R.' 9 'N.C.' 0 'N.P.'
+/AISLACONVI
+1 'Sí' 2 'No' 8 'N.S./N.R.' 9 'N.C.' 0 'N.P.'
+/PRUEBACONVI
+1 'Sí' 2 'No' 8 'N.S./N.R.' 9 'N.C.' 0 'N.P.'
+/CORONACONVI
+1 'Sí' 2 'No' 8 'N.S./N.R.' 9 'N.C.' 0 'N.P.'
+/EVOLUCCONVI
+1 'Tuvo síntomas leves y la pasó en casa' 2 'Tuvo síntomas importantes, pero la pasó en casa'
+3 'Tuvo que ingresar en el hospital' 4 'No tuvo ningún síntoma' 8 'N.S./N.R.' 9 'N.C.' 0 'N.P.'
+/ATENCIONCONVI_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/ATENCIONCONVI_9
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/FORMACONVI_1
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_2
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_3
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_4
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_5
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_96
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_98
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/FORMACONVI_99
+0 'N.P.' 1 'Menciona' 2 'No menciona'
+/VALORACONVI
+1 'Muy buena' 2 'Buena' 3 '(NO LEER) Regular' 4 'Mala' 5 'Muy mala' 8 'N.S./N.R.' 9 'N.C.' 0 'N.P.'
+/P4CORONA_1
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.'
+/P4CORONA_2
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.'
+/P4CORONA_3
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.'
+/P4MUERTOS_1
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.' 0 'N.P.'
+/P4MUERTOS_2
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.' 0 'N.P.'
+/P4MUERTOS_3
+1 'Sí' 2 'No' 8 'N.S.' 9 'N.C.' 0 'N.P.'
+/P5
+1 'Sí' 2 'No' 3 'Sí, si tiene garantías, si está probada, si es fiable' 4 'Sí, según el origen de la vacuna'
+5 'Sí, si hay información suficiente' 6 'Sí, por consejo de autoridades, científicos/as, o sanitarios/as'
+10 'Ya le/la han vacunado/a' 96 'Otras respuestas' 98 '(NO LEER) No sabe, duda' 99 'N.C.'
+/P5A
+1 'No se fía de estas vacunas' 2 'No cree que sean eficaces' 3 'Por miedo a que tengan riesgos para la salud/efectos secundarios-colaterales'
+4 'Por tener pocas probabilidades de contagio' 5 'Por haber pasado la COVID-19' 6 'Prefiere esperar para ver cómo funcionan'
+7 'Es contrario a todas las vacunas en general' 8 'Por falta de información' 9 'Hay otras personas más vulnerables o de mayor riesgo'
+10 'No se vacuna nunca' 11 'Por falta de garantías: pocos ensayos, prematura, falta de análisis'
+12 'Por tener alergias, otras enfermedades o tratamientos, lactancia, embarazo' 13 'Negación de la COVID-19'
+14 'No lo considera necesario (sin especificar)' 96 'Por otra razón' 98 'No lo sabe, duda' 99 'N.C.'
+0 'N.P.'
+/P6
+1 'El Gobierno de España' 2 'El Gobierno de las comunidades autónomas' 3 'Ambos en colaboración'
+4 'Médicos/as, científicos/as y expertos/as en sanidad independientes' 5 'Organizaciones o instituciones (OMS, UE)'
+96 'Otras respuestas' 97 'Ninguno' 98 '(NO LEER) No lo sabe, duda' 99 'N.C.'
+/P7
+1 'Cree que la mayoría está reaccionando con civismo y solidaridad' 2 'Cree que la mayoría está siendo poco cívica e indisciplinada'
+8 '(NO LEER) No lo sabe, duda' 9 'N.C.'
+/P8
+1 'Me está afectando mucho' 2 'Me está afectando bastante' 3 '(NO LEER) Regular' 4 'Me está afectando algo'
+5 'No me está afectando nada o casi nada' 8 'N.S.' 9 'N.C.'
+/P9
+1 'Me está afectando mucho' 2 'Me está afectando bastante' 3 '(NO LEER) Regular' 4 'Me está afectando algo'
+5 'No me está afectando nada o casi nada' 8 'N.S.' 9 'N.C.'
+/P10A_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_6
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_9
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_10
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_98
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10A_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_1
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_2
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_3
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_4
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_5
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_6
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_7
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_8
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_9
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_10
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_96
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_98
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P10B_99
+1 'Menciona' 2 'No menciona' 0 'N.P.'
+/P11
+1 'Ninguna, hace vida normal' 2 'Tiene cuidado con las cosas que toca o por dónde va, pero en lo demás hace vida normal'
+3 'Permanece prácticamente en aislamiento, saliendo de casa sólo para adquirir alimentos y para ir a consultas médicas'
+4 'No sale de casa para nada que no resulte imprescindible y le traen los suministros y medicinas'
+5 'Acudir al trabajo y otras necesidades esenciales' 7 'Reducir el contacto social y familiar (salir menos, evitar aglomeraciones, etc.)'
+10 'Seguir todas las medidas sanitarias requeridas' 11 'Seguir algunas de las medidas sanitarias recomendadas (uso de mascarilla, medidas de higiene, etc.)'
+96 'Otras respuestas' 98 'N.S., duda' 99 'N.C.'
+/LIDERESCONOCE_1
+1 'Conoce' 97 'No conoce' 99 'N.C.'
+/LIDERESCONOCE_2
+1 'Conoce' 97 'No conoce' 99 'N.C.'
+/LIDERESCONOCE_3
+1 'Conoce' 97 'No conoce' 99 'N.C.'
+/LIDERESCONOCE_4
+1 'Conoce' 97 'No conoce' 99 'N.C.'
+/LIDERESCONOCE_5
+1 'Conoce' 97 'No conoce' 99 'N.C.'
+/LIDERESVALORA_1_1
+1 '1 Muy mal' 10 '10 Muy bien' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/LIDERESVALORA_1_2
+1 '1 Muy mal' 10 '10 Muy bien' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/LIDERESVALORA_1_3
+1 '1 Muy mal' 10 '10 Muy bien' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/LIDERESVALORA_1_4
+1 '1 Muy mal' 10 '10 Muy bien' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/LIDERESVALORA_1_5
+1 '1 Muy mal' 10 '10 Muy bien' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/P14
+1 'Muy buena' 2 'Buena' 3 '(NO LEER) Regular' 4 'Mala' 5 'Muy mala' 8 'N.S.' 9 'N.C.'
+/P15
+1 'Muy buena' 2 'Buena' 3 '(NO LEER) Regular' 4 'Mala' 5 'Muy mala' 8 'N.S.' 9 'N.C.'
+/PESPANNA1
+1 'El paro' 2 'Las drogas' 3 'La inseguridad ciudadana' 4 'El terrorismo, ETA' 5 'Las infraestructuras'
+6 'La sanidad' 7 'La vivienda' 8 'La crisis económica, los problemas de índole económicos' 9 'Los problemas relacionados con la calidad del empleo'
+10 'Los problemas de la agricultura, ganadería y pesca' 11 'La corrupción y el fraude' 12 'Las pensiones'
+13 'El mal comportamiento de los/as políticos/as' 14 'Las guerras en general' 15 'La Administración de Justicia'
+16 'Los problemas de índole social' 17 'El racismo' 18 'La inmigración' 19 'La violencia de género'
+20 'Los problemas relacionados con la juventud. Falta de apoyo y oportunidades a los/as jóvenes'
+21 'La crisis de valores' 22 'La educación' 23 'El medio ambiente' 24 'El Gobierno y partidos o políticos/as concretos/as'
+25 'El funcionamiento de los servicios públicos' 26 'Los nacionalismos' 27 'Los problemas relacionados con la mujer'
+28 'El terrorismo internacional' 29 'Las preocupaciones y situaciones personales' 30 'Los estatutos de autonomía'
+31 'Las negociaciones con ETA' 32 'La Reforma Laboral' 33 '"Los recortes"' 34 'Los bancos' 35 'La subida de impuestos'
+36 'Los desahucios' 37 'El fraude fiscal' 38 'Las hipotecas' 39 'La Monarquía' 40 'Las excarcelaciones'
+41 'La Ley del aborto' 42 'La subida de tarifas energéticas' 43 'El Ébola' 44 'Los refugiados/as'
+45 'La independencia de Cataluña' 46 'La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política'
+47 'La emigración' 48 'Los problemas relacionados con los/as autónomos/as' 49 'La falta de inversión en industrias e I+D'
+50 'Lo que hacen los partidos políticos' 51 'Los problemas políticos en general' 52 'Los extremismos'
+53 'Los peligros para la salud: COVID-19. El coronavirus. Falta de recursos suficientes para hacer frente a la pandemia'
+54 'Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro' 55 'Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)'
+56 'La falta de confianza en los/las políticos/as' 57 'La España vaciada, la despoblación' 58 'Las desigualdades, incluida la de género, las diferencias de clases, la pobreza'
+59 'Tener que estar enclaustrado/a en casa' 60 'Avituallamiento de víveres en el hogar' 61 'Limitaciones en las relaciones sociales, familiares, amigos'
+62 'Consecuencias sobre el empleo derivados de la pandemia' 63 'Problemas psicológicos derivados de la pandemia (preocupaciones, soledad, tristeza, desamparo, etc.)'
+64 'Falta de movilidad, libertad' 65 'Aumento de la crispación social, revueltas sociales' 66 'Los cambios de hábitos en mi vida cotidiana (no hacer vida normal, etc.)'
+67 'Falta claridad en las informaciones y medidas relacionadas con la COVID-19' 68 'Uso de mascarillas y otras medidas de higiene'
+69 'Los problemas sobre la gestión de la vacunación, lentitud, retraso' 70 'El funcionamiento de la democracia'
+96 'Otras respuestas' 95 'Todos' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/PESPANNA2
+1 'El paro' 2 'Las drogas' 3 'La inseguridad ciudadana' 4 'El terrorismo, ETA' 5 'Las infraestructuras'
+6 'La sanidad' 7 'La vivienda' 8 'La crisis económica, los problemas de índole económicos' 9 'Los problemas relacionados con la calidad del empleo'
+10 'Los problemas de la agricultura, ganadería y pesca' 11 'La corrupción y el fraude' 12 'Las pensiones'
+13 'El mal comportamiento de los/as políticos/as' 14 'Las guerras en general' 15 'La Administración de Justicia'
+16 'Los problemas de índole social' 17 'El racismo' 18 'La inmigración' 19 'La violencia de género'
+20 'Los problemas relacionados con la juventud. Falta de apoyo y oportunidades a los/as jóvenes'
+21 'La crisis de valores' 22 'La educación' 23 'El medio ambiente' 24 'El Gobierno y partidos o políticos/as concretos/as'
+25 'El funcionamiento de los servicios públicos' 26 'Los nacionalismos' 27 'Los problemas relacionados con la mujer'
+28 'El terrorismo internacional' 29 'Las preocupaciones y situaciones personales' 30 'Los estatutos de autonomía'
+31 'Las negociaciones con ETA' 32 'La Reforma Laboral' 33 '"Los recortes"' 34 'Los bancos' 35 'La subida de impuestos'
+36 'Los desahucios' 37 'El fraude fiscal' 38 'Las hipotecas' 39 'La Monarquía' 40 'Las excarcelaciones'
+41 'La Ley del aborto' 42 'La subida de tarifas energéticas' 43 'El Ébola' 44 'Los refugiados/as'
+45 'La independencia de Cataluña' 46 'La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política'
+47 'La emigración' 48 'Los problemas relacionados con los/as autónomos/as' 49 'La falta de inversión en industrias e I+D'
+50 'Lo que hacen los partidos políticos' 51 'Los problemas políticos en general' 52 'Los extremismos'
+53 'Los peligros para la salud: COVID-19. El coronavirus. Falta de recursos suficientes para hacer frente a la pandemia'
+54 'Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro' 55 'Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)'
+56 'La falta de confianza en los/las políticos/as' 57 'La España vaciada, la despoblación' 58 'Las desigualdades, incluida la de género, las diferencias de clases, la pobreza'
+59 'Tener que estar enclaustrado/a en casa' 60 'Avituallamiento de víveres en el hogar' 61 'Limitaciones en las relaciones sociales, familiares, amigos'
+62 'Consecuencias sobre el empleo derivados de la pandemia' 63 'Problemas psicológicos derivados de la pandemia (preocupaciones, soledad, tristeza, desamparo, etc.)'
+64 'Falta de movilidad, libertad' 65 'Aumento de la crispación social, revueltas sociales' 66 'Los cambios de hábitos en mi vida cotidiana (no hacer vida normal, etc.)'
+67 'Falta claridad en las informaciones y medidas relacionadas con la COVID-19' 68 'Uso de mascarillas y otras medidas de higiene'
+69 'Los problemas sobre la gestión de la vacunación, lentitud, retraso' 70 'El funcionamiento de la democracia'
+96 'Otras respuestas' 95 'Todos' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/PESPANNA3
+1 'El paro' 2 'Las drogas' 3 'La inseguridad ciudadana' 4 'El terrorismo, ETA' 5 'Las infraestructuras'
+6 'La sanidad' 7 'La vivienda' 8 'La crisis económica, los problemas de índole económicos' 9 'Los problemas relacionados con la calidad del empleo'
+10 'Los problemas de la agricultura, ganadería y pesca' 11 'La corrupción y el fraude' 12 'Las pensiones'
+13 'El mal comportamiento de los/as políticos/as' 14 'Las guerras en general' 15 'La Administración de Justicia'
+16 'Los problemas de índole social' 17 'El racismo' 18 'La inmigración' 19 'La violencia de género'
+20 'Los problemas relacionados con la juventud. Falta de apoyo y oportunidades a los/as jóvenes'
+21 'La crisis de valores' 22 'La educación' 23 'El medio ambiente' 24 'El Gobierno y partidos o políticos/as concretos/as'
+25 'El funcionamiento de los servicios públicos' 26 'Los nacionalismos' 27 'Los problemas relacionados con la mujer'
+28 'El terrorismo internacional' 29 'Las preocupaciones y situaciones personales' 30 'Los estatutos de autonomía'
+31 'Las negociaciones con ETA' 32 'La Reforma Laboral' 33 '"Los recortes"' 34 'Los bancos' 35 'La subida de impuestos'
+36 'Los desahucios' 37 'El fraude fiscal' 38 'Las hipotecas' 39 'La Monarquía' 40 'Las excarcelaciones'
+41 'La Ley del aborto' 42 'La subida de tarifas energéticas' 43 'El Ébola' 44 'Los refugiados/as'
+45 'La independencia de Cataluña' 46 'La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política'
+47 'La emigración' 48 'Los problemas relacionados con los/as autónomos/as' 49 'La falta de inversión en industrias e I+D'
+50 'Lo que hacen los partidos políticos' 51 'Los problemas políticos en general' 52 'Los extremismos'
+53 'Los peligros para la salud: COVID-19. El coronavirus. Falta de recursos suficientes para hacer frente a la pandemia'
+54 'Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro' 55 'Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)'
+56 'La falta de confianza en los/las políticos/as' 57 'La España vaciada, la despoblación' 58 'Las desigualdades, incluida la de género, las diferencias de clases, la pobreza'
+59 'Tener que estar enclaustrado/a en casa' 60 'Avituallamiento de víveres en el hogar' 61 'Limitaciones en las relaciones sociales, familiares, amigos'
+62 'Consecuencias sobre el empleo derivados de la pandemia' 63 'Problemas psicológicos derivados de la pandemia (preocupaciones, soledad, tristeza, desamparo, etc.)'
+64 'Falta de movilidad, libertad' 65 'Aumento de la crispación social, revueltas sociales' 66 'Los cambios de hábitos en mi vida cotidiana (no hacer vida normal, etc.)'
+67 'Falta claridad en las informaciones y medidas relacionadas con la COVID-19' 68 'Uso de mascarillas y otras medidas de higiene'
+69 'Los problemas sobre la gestión de la vacunación, lentitud, retraso' 70 'El funcionamiento de la democracia'
+96 'Otras respuestas' 95 'Todos' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/PPERSONAL1
+1 'El paro' 2 'Las drogas' 3 'La inseguridad ciudadana' 4 'El terrorismo, ETA' 5 'Las infraestructuras'
+6 'La sanidad' 7 'La vivienda' 8 'La crisis económica, los problemas de índole económicos' 9 'Los problemas relacionados con la calidad del empleo'
+10 'Los problemas de la agricultura, ganadería y pesca' 11 'La corrupción y el fraude' 12 'Las pensiones'
+13 'El mal comportamiento de los/as políticos/as' 14 'Las guerras en general' 15 'La Administración de Justicia'
+16 'Los problemas de índole social' 17 'El racismo' 18 'La inmigración' 19 'La violencia de género'
+20 'Los problemas relacionados con la juventud. Falta de apoyo y oportunidades a los/as jóvenes'
+21 'La crisis de valores' 22 'La educación' 23 'El medio ambiente' 24 'El Gobierno y partidos o políticos/as concretos/as'
+25 'El funcionamiento de los servicios públicos' 26 'Los nacionalismos' 27 'Los problemas relacionados con la mujer'
+28 'El terrorismo internacional' 29 'Las preocupaciones y situaciones personales' 30 'Los estatutos de autonomía'
+31 'Las negociaciones con ETA' 32 'La Reforma Laboral' 33 '"Los recortes"' 34 'Los bancos' 35 'La subida de impuestos'
+36 'Los desahucios' 37 'El fraude fiscal' 38 'Las hipotecas' 39 'La Monarquía' 40 'Las excarcelaciones'
+41 'La Ley del aborto' 42 'La subida de tarifas energéticas' 43 'El Ébola' 44 'Los refugiados/as'
+45 'La independencia de Cataluña' 46 'La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política'
+47 'La emigración' 48 'Los problemas relacionados con los/as autónomos/as' 49 'La falta de inversión en industrias e I+D'
+50 'Lo que hacen los partidos políticos' 51 'Los problemas políticos en general' 52 'Los extremismos'
+53 'Los peligros para la salud: COVID-19. El coronavirus. Falta de recursos suficientes para hacer frente a la pandemia'
+54 'Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro' 55 'Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)'
+56 'La falta de confianza en los/las políticos/as' 57 'La España vaciada, la despoblación' 58 'Las desigualdades, incluida la de género, las diferencias de clases, la pobreza'
+59 'Tener que estar enclaustrado/a en casa' 60 'Avituallamiento de víveres en el hogar' 61 'Limitaciones en las relaciones sociales, familiares, amigos'
+62 'Consecuencias sobre el empleo derivados de la pandemia' 63 'Problemas psicológicos derivados de la pandemia (preocupaciones, soledad, tristeza, desamparo, etc.)'
+64 'Falta de movilidad, libertad' 65 'Aumento de la crispación social, revueltas sociales' 66 'Los cambios de hábitos en mi vida cotidiana (no hacer vida normal, etc.)'
+67 'Falta claridad en las informaciones y medidas relacionadas con la COVID-19' 68 'Uso de mascarillas y otras medidas de higiene'
+69 'Los problemas sobre la gestión de la vacunación, lentitud, retraso' 70 'El funcionamiento de la democracia'
+96 'Otras respuestas' 95 'Todos' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/PPERSONAL2
+1 'El paro' 2 'Las drogas' 3 'La inseguridad ciudadana' 4 'El terrorismo, ETA' 5 'Las infraestructuras'
+6 'La sanidad' 7 'La vivienda' 8 'La crisis económica, los problemas de índole económicos' 9 'Los problemas relacionados con la calidad del empleo'
+10 'Los problemas de la agricultura, ganadería y pesca' 11 'La corrupción y el fraude' 12 'Las pensiones'
+13 'El mal comportamiento de los/as políticos/as' 14 'Las guerras en general' 15 'La Administración de Justicia'
+16 'Los problemas de índole social' 17 'El racismo' 18 'La inmigración' 19 'La violencia de género'
+20 'Los problemas relacionados con la juventud. Falta de apoyo y oportunidades a los/as jóvenes'
+21 'La crisis de valores' 22 'La educación' 23 'El medio ambiente' 24 'El Gobierno y partidos o políticos/as concretos/as'
+25 'El funcionamiento de los servicios públicos' 26 'Los nacionalismos' 27 'Los problemas relacionados con la mujer'
+28 'El terrorismo internacional' 29 'Las preocupaciones y situaciones personales' 30 'Los estatutos de autonomía'
+31 'Las negociaciones con ETA' 32 'La Reforma Laboral' 33 '"Los recortes"' 34 'Los bancos' 35 'La subida de impuestos'
+36 'Los desahucios' 37 'El fraude fiscal' 38 'Las hipotecas' 39 'La Monarquía' 40 'Las excarcelaciones'
+41 'La Ley del aborto' 42 'La subida de tarifas energéticas' 43 'El Ébola' 44 'Los refugiados/as'
+45 'La independencia de Cataluña' 46 'La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política'
+47 'La emigración' 48 'Los problemas relacionados con los/as autónomos/as' 49 'La falta de inversión en industrias e I+D'
+50 'Lo que hacen los partidos políticos' 51 'Los problemas políticos en general' 52 'Los extremismos'
+53 'Los peligros para la salud: COVID-19. El coronavirus. Falta de recursos suficientes para hacer frente a la pandemia'
+54 'Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro' 55 'Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)'
+56 'La falta de confianza en los/las políticos/as' 57 'La España vaciada, la despoblación' 58 'Las desigualdades, incluida la de género, las diferencias de clases, la pobreza'
+59 'Tener que estar enclaustrado/a en casa' 60 'Avituallamiento de víveres en el hogar' 61 'Limitaciones en las relaciones sociales, familiares, amigos'
+62 'Consecuencias sobre el empleo derivados de la pandemia' 63 'Problemas psicológicos derivados de la pandemia (preocupaciones, soledad, tristeza, desamparo, etc.)'
+64 'Falta de movilidad, libertad' 65 'Aumento de la crispación social, revueltas sociales' 66 'Los cambios de hábitos en mi vida cotidiana (no hacer vida normal, etc.)'
+67 'Falta claridad en las informaciones y medidas relacionadas con la COVID-19' 68 'Uso de mascarillas y otras medidas de higiene'
+69 'Los problemas sobre la gestión de la vacunación, lentitud, retraso' 70 'El funcionamiento de la democracia'
+96 'Otras respuestas' 95 'Todos' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/PPERSONAL3
+1 'El paro' 2 'Las drogas' 3 'La inseguridad ciudadana' 4 'El terrorismo, ETA' 5 'Las infraestructuras'
+6 'La sanidad' 7 'La vivienda' 8 'La crisis económica, los problemas de índole económicos' 9 'Los problemas relacionados con la calidad del empleo'
+10 'Los problemas de la agricultura, ganadería y pesca' 11 'La corrupción y el fraude' 12 'Las pensiones'
+13 'El mal comportamiento de los/as políticos/as' 14 'Las guerras en general' 15 'La Administración de Justicia'
+16 'Los problemas de índole social' 17 'El racismo' 18 'La inmigración' 19 'La violencia de género'
+20 'Los problemas relacionados con la juventud. Falta de apoyo y oportunidades a los/as jóvenes'
+21 'La crisis de valores' 22 'La educación' 23 'El medio ambiente' 24 'El Gobierno y partidos o políticos/as concretos/as'
+25 'El funcionamiento de los servicios públicos' 26 'Los nacionalismos' 27 'Los problemas relacionados con la mujer'
+28 'El terrorismo internacional' 29 'Las preocupaciones y situaciones personales' 30 'Los estatutos de autonomía'
+31 'Las negociaciones con ETA' 32 'La Reforma Laboral' 33 '"Los recortes"' 34 'Los bancos' 35 'La subida de impuestos'
+36 'Los desahucios' 37 'El fraude fiscal' 38 'Las hipotecas' 39 'La Monarquía' 40 'Las excarcelaciones'
+41 'La Ley del aborto' 42 'La subida de tarifas energéticas' 43 'El Ébola' 44 'Los refugiados/as'
+45 'La independencia de Cataluña' 46 'La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política'
+47 'La emigración' 48 'Los problemas relacionados con los/as autónomos/as' 49 'La falta de inversión en industrias e I+D'
+50 'Lo que hacen los partidos políticos' 51 'Los problemas políticos en general' 52 'Los extremismos'
+53 'Los peligros para la salud: COVID-19. El coronavirus. Falta de recursos suficientes para hacer frente a la pandemia'
+54 'Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro' 55 'Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)'
+56 'La falta de confianza en los/las políticos/as' 57 'La España vaciada, la despoblación' 58 'Las desigualdades, incluida la de género, las diferencias de clases, la pobreza'
+59 'Tener que estar enclaustrado/a en casa' 60 'Avituallamiento de víveres en el hogar' 61 'Limitaciones en las relaciones sociales, familiares, amigos'
+62 'Consecuencias sobre el empleo derivados de la pandemia' 63 'Problemas psicológicos derivados de la pandemia (preocupaciones, soledad, tristeza, desamparo, etc.)'
+64 'Falta de movilidad, libertad' 65 'Aumento de la crispación social, revueltas sociales' 66 'Los cambios de hábitos en mi vida cotidiana (no hacer vida normal, etc.)'
+67 'Falta claridad en las informaciones y medidas relacionadas con la COVID-19' 68 'Uso de mascarillas y otras medidas de higiene'
+69 'Los problemas sobre la gestión de la vacunación, lentitud, retraso' 70 'El funcionamiento de la democracia'
+96 'Otras respuestas' 95 'Todos' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/P18
+1 'Acabar con el cambio de hora' 2 'Seguir como hasta ahora, cambiando la hora en invierno y en verano'
+3 '(NO LEER) Le es indiferente' 8 'N.S.' 9 'N.C.'
+/P19
+1 'El de verano' 2 'El de invierno' 3 '(NO LEER) Le es indiferente' 8 'N.S.' 9 'N.C.'
+/P20
+1 'Muy importante' 2 'Bastante importante' 3 'Algo importante' 4 'Poco importante' 5 'Nada importante'
+8 'N.S.' 9 'N.C.'
+/P21
+1 'Las adminsitraciones públicas deben poner en marcha medidas que eviten que los/as menores beban alcohol porque es su obl'+'igación protegerles'
+2 'Las adminsitraciones públicas no deben poner en marcha medidas que limiten el consumo de alcohol entre los/as menores, y'+'a que estos aprenderán por sí mismos/as'
+7 '[NO LEER] Ninguna' 8 'N.S.' 9 'N.C.'
+/P22_1
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_2
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_3
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_4
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_5
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_6
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_7
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_8
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_9
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_10
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_11
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P22_12
+1 'Muy útil' 2 'Bastante útil' 3 'Poco útil' 4 'Nada útil' 8 'N.S.' 9 'N.C.'
+/P23
+1 'A favor' 2 'En contra' 8 'N.S.' 9 'N.C.'
+/P24
+1 'A favor' 2 'En contra' 8 'N.S.' 9 'N.C.'
+/CONFIANZAPTE
+1 'Mucha confianza' 2 'Bastante confianza' 3 'Poca confianza' 4 'Ninguna confianza' 8 'N.S.'
+9 'N.C.'
+/CONFIANZAOPOSIC
+1 'Mucha confianza' 2 'Bastante confianza' 3 'Poca confianza' 4 'Ninguna confianza' 8 'N.S.'
+9 'N.C.'
+/PREFPTE
+1 'Pedro Sánchez' 2 'Pablo Casado' 3 'Santiago Abascal' 4 'Pablo Iglesias' 5 'Alberto Garzón'
+6 'Inés Arrimadas' 7 'Íñigo Errejón' 96 '(NO LEER) Otro/a' 97 '(NO LEER) Ninguno/a de ellos/as'
+98 'N.S.' 99 'N.C.'
+/P28_1
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_2
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_3
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_4
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_5
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_6
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_7
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_8
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_9
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_10
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_11
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_12
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_13
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_14
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_15
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_16
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_17
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_18
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_19
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_20
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_21
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/P28_22
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/INTENCIONG
+1 'PP' 2 'PSOE' 3 'Podemos' 4 'Ciudadanos' 5 'IU' 6 'En Comú Podem' 7 'Compromís' 8 'ERC' 9 'JxCat'
+11 'EAJ-PNV' 12 'EH Bildu' 13 'CC-PNC' 14 'UPN' 15 'FAC' 17 'PACMA' 18 'VOX' 19 'CUP' 20 'Los Verdes'
+21 'Unidas Podemos' 23 'PAR' 24 'BNG' 25 'MÉS (PSM-Entesa)' 27 'Escaños en Blanco' 30 'CHA'
+31 'Recortes Cero' 34 'Geroa Bai' 39 'PCPE' 43 'PRC' 50 'Más País' 67 'En Común-Unidas Podemos'
+71 'PDeCAT' 95 'Otro partido' 96 'En blanco' 77 'Voto nulo' 97 'No votaría' 98 'No sabe todavía'
+99 'N.C.'
+/INTENCIONGR
+2 'PSOE' 1 'PP' 18 'VOX' 21 'Unidas Podemos' 4 'Ciudadanos' 50 'Más País' 8 'ERC' 9 'JxCat'
+19 'CUP' 11 'EAJ-PNV' 12 'EH Bildu' 13 'CCa-NC' 14 'NA+' 7 'Més Compromís' 24 'BNG' 43 'PRC'
+68 'Teruel Existe' 17 'PACMA' 20 'Los Verdes' 23 'PAR' 27 'Escaños en Blanco' 31 'Recortes Cero'
+34 'Geroa Bai' 39 'PCPE' 71 'PDeCAT' 95 'Otro partido' 96 'En blanco' 77 'Voto nulo' 97 'No votaría'
+98 'No sabe todavía' 99 'N.C.'
+/INTENCIONGALTER
+1 'PP' 2 'PSOE' 3 'Podemos' 4 'Ciudadanos' 5 'IU' 6 'En Comú Podem' 7 'Compromís' 8 'ERC' 9 'JxCat'
+11 'EAJ-PNV' 12 'EH Bildu' 13 'CC-PNC' 16 'Nueva Canarias' 17 'PACMA' 18 'VOX' 19 'CUP' 20 'Los Verdes'
+21 'Unidas Podemos' 22 'EQUO' 23 'PAR' 24 'BNG' 25 'MÉS (PSM-Entesa)' 26 'Falange Española de las JONS'
+27 'Escaños en Blanco' 30 'CHA' 34 'Geroa Bai' 40 'PI' 43 'PRC' 44 'UPL' 50 'Más País' 67 'En Común-Unidas Podemos'
+71 'PDeCAT' 72 'PNC (Partido Nacionalista Catalán)' 93 '(NO LEER) No votaría a ningún otro partido (cita el mismo partido)'
+95 'Otro partido' 96 'En blanco' 77 'Voto nulo' 97 'No votaría' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/INTENCIONGALTERR
+2 'PSOE' 1 'PP' 18 'VOX' 21 'Unidas Podemos' 6 'En Comú Podem' 67 'En Común-Unidas Podemos'
+4 'Ciudadanos' 50 'Más País' 8 'ERC' 9 'JxCat' 19 'CUP' 11 'EAJ-PNV' 12 'EH Bildu' 13 'CCa-NC'
+14 'NA+' 7 'Més Compromís' 24 'BNG' 43 'PRC' 68 'Teruel Existe' 17 'PACMA' 20 'Los Verdes' 67 'En Común-Unidas Podemos'
+90 'Adelante Sevilla' 93 '(NO LEER) No votaría a ningún otro partido (cita el mismo partido)'
+95 'Otro partido' 96 'En blanco' 77 'Voto nulo' 97 'No votaría' 98 'N.S.' 99 'N.C.' 0 'N.P.'
+/SIMPATIA
+1 'PP' 2 'PSOE' 3 'Podemos' 4 'Ciudadanos' 5 'IU' 6 'En Comú Podem' 7 'Compromís' 8 'ERC' 9 'JxCat'
+11 'EAJ-PNV' 12 'EH Bildu' 13 'CC-PNC' 17 'PACMA' 18 'VOX' 19 'CUP' 21 'Unidas Podemos' 22 'EQUO'
+23 'PAR' 24 'BNG' 39 'PCPE' 50 'Más País' 71 'PDeCAT' 95 'Otro partido' 97 'Ninguno' 98 'N.S.'
+99 'N.C.' 0 'N.P.'
+/VOTOSIMG
+2 'PSOE' 1 'PP' 18 'VOX' 3 'Podemos' 5 'IU' 21 'Unidas Podemos' 6 'En Comú Podem' 67 'En Común-Unidas Podemos'
+4 'Ciudadanos' 50 'Más País' 8 'ERC' 9 'JxCat' 19 'CUP' 11 'EAJ-PNV' 12 'EH Bildu' 13 'CCa-NC'
+16 'Nueva Canarias' 14 'NA+' 7 'Més Compromís' 24 'BNG' 43 'PRC' 68 'Teruel Existe' 17 'PACMA'
+15 'FAC' 95 'Otro partido' 96 'En blanco' 77 'Voto nulo' 97 'No votaría' 98 'No sabe todavía'
+99 'N.C.'
+/ESCIDEOL
+1 '1 Izquierda' 10 '10 Derecha' 98 'N.S.' 99 'N.C.'
+/ESCAIDEOLLIDERES_1
+1 '1 Izquierda' 10 '10 Derecha' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/ESCAIDEOLLIDERES_2
+1 '1 Izquierda' 10 '10 Derecha' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/ESCAIDEOLLIDERES_3
+1 '1 Izquierda' 10 '10 Derecha' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/ESCAIDEOLLIDERES_4
+1 '1 Izquierda' 10 '10 Derecha' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/ESCAIDEOLLIDERES_5
+1 '1 Izquierda' 10 '10 Derecha' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/VALORALIDERES_1
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/VALORALIDERES_2
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/VALORALIDERES_3
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/VALORALIDERES_4
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/VALORALIDERES_5
+1 '1 Muy mal' 10 '10 Muy bien' 97 'No conoce' 98 'N.S.' 99 'N.C.'
+/FIDEVOTO
+1 'Votan siempre por el mismo partido' 2 'Por lo general suelen votar por el mismo partido'
+3 'Según lo que más les convenza en ese momento, votan por un partido u otro, o no votan' 4 '(NO LEER) Votan en blanco o nulo'
+5 '(NO LEER) No suelen votar' 6 '(NO LEER) Es la primera vez que votan' 8 'No recuerda/N.S.'
+9 'N.C.'
+/PARTICIPACIONG
+1 'Fue a votar y votó' 7 'Votó por correo' 2 'No tenía edad para votar' 3 'Fue a votar pero no pudo hacerlo'
+4 'No fue a votar porque no pudo' 5 'Prefirió no votar' 6 'No tenía derecho a voto' 8 'No recuerda'
+9 'N.C.'
+/RECUVOTOG
+2 'PSOE' 1 'PP' 18 'VOX' 21 'Unidas Podemos' 6 'En Comú Podem' 67 'En Común-Unidas Podemos'
+8 'ERC' 4 'Ciudadanos' 9 'JxCat' 11 'EAJ-PNV' 12 'EH Bildu' 50 'Más País' 19 'CUP' 13 'CCa-NC'
+14 'Na+' 7 'Més Compromís' 24 'BNG' 43 'PRC' 17 'PACMA' 95 'Otros partidos' 96 'En blanco' 77 'Voto nulo'
+98 'No recuerda' 99 'N.C.' 0 'N.P.'
+/CERCANIA
+1 'PP' 2 'PSOE' 3 'Podemos' 4 'Ciudadanos' 5 'IU' 6 'En Comú Podem' 7 'Compromís' 8 'ERC' 9 'JxCat'
+11 'EAJ-PNV' 12 'EH Bildu' 13 'CC-PNC' 14 'UPN' 17 'PACMA' 18 'VOX' 19 'CUP' 20 'Los Verdes'
+21 'Unidas Podemos' 24 'BNG' 25 'MÉS (PSM-Entesa)' 29 'Partido Libertario' 31 'Recortes Cero'
+34 'Geroa Bai' 39 'PCPE' 43 'PRC' 44 'UPL' 50 'Más País' 67 'En Común-Unidas Podemos' 71 'PDeCAT'
+95 'Otro partido' 97 'Ninguno' 98 'N.S.' 99 'N.C.'
+/ESCUELA
+1 'No, es analfabeto/a' 2 'No, pero sabe leer y escribir' 3 'Sí, ha ido a la escuela' 9 'N.C.'
+/NIVELESTENTREV
+1 'Menos de 5 años de escolarización ' 2 'Educación Primaria (Educación Primaria de LOGSE, 5º curso de EGB, enseñanza primaria antigua) '
+3 'Cualificación profesional grado inicial (FP grado inicial). PCPI (Programas de Cualificación Profesional Inicial, que no'+' precisan de titulación académica de la primera etapa de secundaria para su realización). Programas de garantía social '
+4 'Educación secundaria (ESO, EGB. Graduado Escolar. Certificado de Escolaridad, Bachillerato Elemental) '
+5 'FP de Grado Medio (ciclo/módulo formativo de FP (grado medio), de Artes Plásticas y Diseño, Música y Danza, enseñanzas d'+'eportivas, FP I, Bachiller Laboral Elemental. Oficialía Industrial; Bachillerato Comercial) '
+6 'Bachillerato (Bachillerato LOGSE, BUP, Bachillerato Superior (6º), Bachillerato Universitario (7º), incluidos COU y PREU'+') '
+7 'FP de Grado Superior (ciclo/módulo formativo de FP (grado superior) de Artes Plásticas, Diseño, Música y Danza, Deporte,'+' FP II, Bachillerato Laboral Superior, Maestría industrial, perito/a mercantil; Secretariado de 2º grado; Grado Medio co'+'nservatorio) '
+8 'Arquitectura/Ingeniería Técnica (aparejador/a; peritos/as) ' 9 'Diplomatura (ATENCIÓN: sólo diplomaturas oficiales, no codificar aquí los tres primeros años de una licenciatura o grado'+' con mayor duración) '
+10 'Grado (estudios de grado, enseñanzas artísticas equivalentes (desde 2006)) ' 11 'Licenciatura (titulaciones con equivalencia oficial: 2º ciclo INEF; Danza y Arte Dramático (desde 1992); Grado Superior '+'de Música) '
+12 'Arquitectura/Ingeniería' 13 'Máster oficial universitario (especialidades médicas o equivalente) '
+14 'Doctorado' 15 'Títulos propios de posgrado (máster no oficial, etc.) ' 16 'Otros estudios '
+98 'N.S./No recuerda ' 99 'N.C.' 0 'N.P.'
+/RELIGION
+1 'Católico/a practicante' 2 'Católico/a no practicante' 3 'Creyente de otra religión' 4 'Agnóstico/a (no niegan la existencia de Dios pero tampoco la descartan) '
+5 'Indiferente, no creyente' 6 'Ateo/a (niegan la existencia de Dios) ' 9 'N.C.'
+/ECIVIL
+1 'Casado/a' 2 'Soltero/a' 3 'Viudo/a' 4 'Separado/a' 5 'Divorciado/a' 9 'N.C.'
+/SITLAB
+1 'Trabaja' 2 'Jubilado/a o pensionista (anteriormente ha trabajado) ' 3 'Pensionista (anteriormente no ha trabajado) '
+4 'En paro y ha trabajado antes ' 5 'En paro y busca su primer empleo ' 6 'Estudiante ' 7 'Trabajo doméstico no remunerado '
+8 'Otra situación' 9 'N.C.'
+/CNO11
+1 'Directores/as y gerentes' 2 'Profesionales científicos e intelectuales' 3 'Técnicos/as y profesionales de nivel medio'
+4 'Personal de apoyo administrativo' 5 'Trabajadores/as de los servicios y vendedores/as de comercios y mercados'
+6 'Agricultores/as y trabajadores/as cualificados/as agropecuarios, forestales y pesqueros/as'
+7 'Oficiales/as, operarios/as, artesanos/as y trabajadores/as de artes mecánicas y de otros oficios'
+8 'Operadores/as de instalaciones y máquinas y ensambladores/as' 9 'Ocupaciones elementales'
+10 'Ocupaciones militares y cuerpos policiales' 11 'Otra/o' 99 'N.C.' 0 'N.P.'
+/CLASESOCIAL
+1 'Clase alta ' 2 'Clase media-alta ' 3 'Clase media-media ' 4 'Clase media-baja ' 5 'Clase trabajadora/obrera '
+12 'Clase baja ' 6 'Clase pobre ' 7 'Infraclase' 8 'Proletariado' 9 'A los/as de abajo ' 10 'Excluidos/as'
+11 'A la gente común ' 96 'Otras' 97 'No cree en las clases ' 98 'No sabe, duda ' 99 'N.C.'
+/CLASESUB
+1 'Clase alta y media alta' 2 'Clase media-media' 3 'Clase media-baja' 4 'Clase trabajadora/obrera/proletariado'
+5 'Clase baja/pobre' 6 'Otras' 8 'N.S.' 9 'N.C.'
+/IA_I501
+0 'No procede'
+/IA_I502
+0 'No procede'
+/IA_I503
+0 'No procede'
+/IA_I504
+0 'No procede'
+/IA_I505
+0 'No procede'
+/IA_I506
+0 'No procede'
+/IA_I507
+0 'No procede'
+/IA_I508
+0 'No procede'
+/IA_I509
+0 'No procede'
+/IA_I510
+0 'No procede'
+/IA_I511
+0 'No procede'
+/IA_I512
+0 'No procede'
+/IA_I513
+0 'No procede'
+/IA_I514
+0 'No procede'
+/IA_I515
+0 'No procede'
+/IA_I516
+0 'No procede'
+/IA_I517
+0 'No procede'
+/IA_I518
+0 'No procede'
+/IA_I519
+0 'No procede'
+/IA_I520
+0 'No procede'
+/IA_I521
+0 'No procede'
+/IA_I522
+0 'No procede'
+/IA_I523
+0 'No procede'
+/IA_I524
+0 'No procede'
+/IA_I525
+0 'No procede'
+/IA_I526
+0 'No procede'
+/IA_I528
+0 'No procede'
+/IA_I529
+0 'No procede'
+/IA_I530
+0 'No procede'
+/IA_I531
+0 'No procede'
+/IA_I532
+0 'No procede'
+/IA_I533
+0 'No procede'
+/IA_I534
+0 'No procede'
+/IA_I535
+0 'No procede'
+/IA_I536
+0 'No procede'
+/IA_I537
+0 'No procede'
+/IA_I538
+0 'No procede'
+/IA_I539
+0 'No procede'
+/IA_I540
+0 'No procede'
+/IA_I541
+0 'No procede'
+/IA_I542
+0 'No procede'
+/IA_I543
+0 'No procede'
+/IA_OBS0
+0 'No procede'
+/IA_OBS1
+0 'No procede'
+/IA_OBS2
+0 'No procede'
+/IA_E1_DIA
+99 'N.C.'
+/IA_E1_MES
+1 'Enero  ' 2 'Febrero  ' 3 'Marzo  ' 4 'Abril  ' 5 'Mayo  ' 6 'Junio  ' 7 'Julio  ' 8 'Agosto  '
+9 'Septiembre  ' 10 'Octubre  ' 11 'Noviembre    ' 12 'Diciembre  ' 99 'N.C.'
+/IA_E1_ANYO
+21 '2021'
+/IA_E2
+1 'Lunes' 2 'Martes' 3 'Miércoles' 4 'Jueves' 5 'Viernes' 6 'Sábado' 7 'Domingo' 9 'N.C.'
+/IA_E3
+/IA_E4
+1 'Mañana (9-12)' 2 'Mediodía (12-16)' 3 'Tarde (16-20)' 4 'Noche (20-22)' 5 'Otra (22-9)'
+/IA_VALIDA
+0 'No' 1 'Sí'
+/IA_APLAZADA
+0 'No' 1 'Sí'
+/IA_MODIFICADA
+0 'No' 1 'Sí'
+/IA_SUPERVISADA
+0 'No' 1 'Sí'
+/IA_C2
+1 'Entrevista no supervisada' 2 'Supervisión telefónica' 3 'Supervisión personal' 4 'Supervisión telefónica y personal'
+5 'Supervisión directa' 6 'Supervisión de audio (monitorización)'
+/IA_C2A
+1 'Entrevista correcta' 2 'Entrevista incorrecta' 3 'No se ha establecido contacto'
+/IA_C2B_1
+1 'Dirección inexistente (no existe número en la calle, piso, etc...)' 0 'N.P.' -99 'N.P.'
+/IA_C2B_2
+1 'Dirección ilocalizable (faltan datos: número, piso, letra, etc...)' 0 'N.P.' -99 'N.P.'
+/IA_C2B_3
+1 'No coinciden datos personales y no ha sido realizada en la dirección que se hace constar'
+0 'N.P.' -99 'N.P.'
+/IA_C2B_4
+1 'Negativa que ofrece dudas. Coinciden datos personales pero niegan haber realizado la entrevista'
+0 'N.P.' -99 'N.P.'
+/IA_C2B_5
+1 'Realizada a una persona, recogiendo los datos de otra' 0 'N.P.' -99 'N.P.'
+/IA_C2B_6
+1 'Realizada cambiando género del entrevistado' 0 'N.P.' -99 'N.P.'
+/IA_C2B_7
+1 'Cambio de edad por otra de un tramo contiguo' 0 'N.P.' -99 'N.P.'
+/IA_C2B_8
+1 'Cambio de edad por otra de un tramo no contiguo' 0 'N.P.' -99 'N.P.'
+/IA_C2B_9
+1 'Realizada fuera de la vivienda pero vive en la sección electoral' 0 'N.P.' -99 'N.P.'
+/IA_C2B_10
+1 'Realizada fuera de la vivienda, y no vive en la sección electoral' 0 'N.P.' -99 'N.P.'
+/IA_C2B_11
+1 'Realizada en dirección que no corresponde a la sección electoral' 0 'N.P.' -99 'N.P.'
+/IA_C2B_12
+1 'Realizada, pero no respeta las normas de ruta' 0 'N.P.' -99 'N.P.'
+/IA_C2B_13
+1 'Se detecta que no ha hecho todas las preguntas' 0 'N.P.' -99 'N.P.'
+/IA_C2B_14
+1 'Negativa que ofrece dudas: no coincide la dirección ni datos personales. Posibilidad de error en el teléfono'
+0 'N.P.' -99 'N.P.'
+/IA_C2B_15
+1 'No hay grabación' 0 'N.P.' -99 'N.P.'
+/IA_C2B_16
+1 'Realizada en otro idioma' 0 'N.P.' -99 'N.P.'
+/IA_C2B_17
+1 'Realizada en un establecimiento o negocio, no es un domicilio' 0 'N.P.' -99 'N.P.'
+/IA_C2B_18
+1 'Valores de cuota anotados incorrectamente, distintos de sexo y edad (provincia/municipio/situación laboral)'
+0 'N.P.' -99 'N.P.'
+/IA_C2B_19
+1 'No se lee el protocolo de inicio o fin de la encuesta' 0 'N.P.' -99 'N.P.'
+/IA_C2B_20
+1 'Entrevista interrumpida y autocompletada' 0 'N.P.' -99 'N.P.'
+/IA_C2B_21
+1 'No se leen  literalmente las preguntas y/o las opciones de respuesta' 0 'N.P.' -99 'N.P.'
+/IA_C2B_22
+1 'Induce las respuestas' 0 'N.P.' -99 'N.P.'
+/IA_C2B_23
+1 'No se recogen fielmente las respuestas espontáneas' 0 'N.P.' -99 'N.P.'
+/IA_C2B_24
+1 'Lee las categorías de respuesta cuando ésta es espontánea' 0 'N.P.' -99 'N.P.'
+/IA_C2B_25
+1 'Codificación incorrecta por parte del entrevistador (Ej. estudios, problemas, preguntas precodificadas…)'
+0 'N.P.' -99 'N.P.'
+/IA_C3
+1 'Entrevista válida' 2 'Entrevista anulada' -99 'N.P.'
+/IA_C4
+0 'Anonimizado'
+/RECUVOTOGR
+2 'PSOE' 1 'PP' 18 'VOX' 21 'Unidas Podemos' 6 'En Comú Podem' 67 'En Común-Unidas Podemos'
+8 'ERC' 4 'Ciudadanos' 9 'JxCat' 11 'EAJ-PNV' 12 'EH Bildu' 50 'Más País' 19 'CUP' 13 'CCa-NC'
+14 'Na+' 7 'Més Compromís' 24 'BNG' 43 'PRC' 68 'Teruel Existe' 17 'PACMA' 95 'Otros partidos'
+96 'En blanco' 77 'Voto nulo' 98 'No recuerda' 99 'N.C.' 0 'N.P.'
+/PRACTICARELIG
+1 'Casi nunca' 2 'Varias veces al año ' 3 'Alguna vez al mes ' 4 'Casi todos los domingos y festivos '
+5 'Varias veces a la semana ' 9 'N.C.' 0 'N.P.'
+/RELIGIONR
+1 'Católico/a practicante' 2 'Católico/a no practicante' 3 'Creyente de otra religión' 4 'Agnóstico/a, indiferente, ateo/a'
+9 'N.C.'
+/CNO11R
+1 'Directores/as y gerentes' 2 'Profesionales, científicos/as e intelectuales' 3 'Técnicos/as y profesionales de nivel medio'
+4 'Personal de apoyo administrativo' 5 'Trabajadores/as de los servicios y vendedores/as de comercios y mercados'
+6 'Agricultores/as y trabajadores/as agropecuarios/as, forestales y pesqueros/as' 7 'Oficiales/as, operarios/as y artesanos/as'
+8 'Operadores/as de instalaciones y máquinas y ensambladores/as' 9 'Ocupaciones elementales'
+10 'Ocupaciones militares y cuerpos policiales' 11 'Otra/o ocupación' 12 'Jubilado o pensionista (anteriormente ha trabajado)'
+13 'Estudiante' 14 'Trabajo doméstico no remunerado' 15 'Otra situación inactiva' 16 'Parados/as'
+99 'N.C.'
+/RECUERDO
+2 'PSOE' 1 'PP' 18 'VOX' 21 'Unidas Podemos' 6 'En Comú Podem' 67 'En Común-Unidas Podemos'
+8 'ERC' 4 'C''s' 9 'JxCat' 11 'EAJ-PNV' 12 'EH Bildu' 50 'Más País' 19 'CUP' 13 'CCa-NC' 14 'Na+'
+7 'Més Compromís' 24 'BNG' 43 'PRC' 68 'Teruel Existe' 17 'PACMA' 95 'Otros partidos' 96 'En blanco'
+77 'Nulo' 94 'No tenía edad' 97 'No votó' 93 'No tenía derecho a voto' 98 'No recuerda' 99 'N.C.'
+/ESTUDIOS
+1 'Sin estudios' 2 'Primaria' 3 'Secundaria 1ª etapa' 4 'Secundaria 2ª etapa' 5 'F.P.' 6 'Superiores'
+7 'Otros' 9 'N.C.'
+/PESO
+/PESOCCAA
+.
+EXECUTE.
+
+MISSING VALUES
+ P4ANNO (0) P4MES (0) P4A0_1_20 (0) P4A0_2_21 (0) SERVIENTRE_1 (0) SERVIENTRE_2 (0) SERVIENTRE_3 (0)
+ SERVIENTRE_4 (0) SERVIENTRE_5 (0) SERVIENTRE_7 (0) SERVIENTRE_8 (0) SERVIENTRE_10 (0) SERVIENTRE_11 (0)
+ SERVIENTRE_96 (0) SERVIENTRE_97 (0) SERVIENTRE_99 (0) SINTOMASENTRE_1 (0) SINTOMASENTRE_2 (0)
+ SINTOMASENTRE_3 (0) SINTOMASENTRE_4 (0) SINTOMASENTRE_5 (0) SINTOMASENTRE_6 (0) SINTOMASENTRE_7 (0)
+ SINTOMASENTRE_8 (0) SINTOMASENTRE_9 (0) SINTOMASENTRE_10 (0) SINTOMASENTRE_11 (0) SINTOMASENTRE_12 (0)
+ SINTOMASENTRE_13 (0) SINTOMASENTRE_14 (0) SINTOMASENTRE_15 (0) SINTOMASENTRE_17 (0) SINTOMASENTRE_18 (0)
+ SINTOMASENTRE_19 (0) SINTOMASENTRE_20 (0) SINTOMASENTRE_21 (0) SINTOMASENTRE_97 (0) SINTOMASENTRE_96 (0)
+ SINTOMASENTRE_22 (0) SINTOMASENTRE_98 (0) SINTOMASENTRE_99 (0) ATENCENTRE (0) AISLAENTRE (0)
+ PRUEBAENTRE (0) CORONAENTRE (0) EVOLUCENTRE (0) ATENCIONENTRE_1 (0) ATENCIONENTRE_2 (0) ATENCIONENTRE_3 (0)
+ ATENCIONENTRE_4 (0) ATENCIONENTRE_5 (0) ATENCIONENTRE_7 (0) ATENCIONENTRE_9 (0) FORMAENTRE_1 (0)
+ FORMAENTRE_2 (0) FORMAENTRE_3 (0) FORMAENTRE_4 (0) FORMAENTRE_5 (0) FORMAENTRE_96 (0) FORMAENTRE_99 (0)
+ VALORACENTRE (0) SERVIOTROSCONVI (0) NUMPERSONAS (0) EDADPERSONAS_1 (97) EDADPERSONAS_2 (97)
+ EDADPERSONAS_3 (97) EDADPERSONAS_4 (97) EDADPERSONAS_5 (97) EDADPERSONAS_6 (97) DURACONVI1 (0)
+ DURACONVI2 (0) DURACONVI3 (0) DURACONVI4 (0) DURACONVI5 (0) DURACONVI6 (0) DURACONVI1_1 (0)
+ DURACONVI2_1 (0) DURACONVI3_1 (0) DURACONVI4_1 (0) DURACONVI5_1 (0) DURACONVI6_1 (0) SERVICONVI_1 (0)
+ SERVICONVI_2 (0) SERVICONVI_3 (0) SERVICONVI_4 (0) SERVICONVI_5 (0) SERVICONVI_7 (0) SERVICONVI_8 (0)
+ SERVICONVI_10 (0) SERVICONVI_11 (0) SERVICONVI_96 (0) SERVICONVI_97 (0) SERVICONVI_98 (0) SERVICONVI_99 (0)
+ SINTOMASCONVI_1 (0) SINTOMASCONVI_2 (0) SINTOMASCONVI_3 (0) SINTOMASCONVI_4 (0) SINTOMASCONVI_5 (0)
+ SINTOMASCONVI_6 (0) SINTOMASCONVI_7 (0) SINTOMASCONVI_8 (0) SINTOMASCONVI_9 (0) SINTOMASCONVI_10 (0)
+ SINTOMASCONVI_11 (0) SINTOMASCONVI_12 (0) SINTOMASCONVI_13 (0) SINTOMASCONVI_14 (0) SINTOMASCONVI_15 (0)
+ SINTOMASCONVI_17 (0) SINTOMASCONVI_18 (0) SINTOMASCONVI_19 (0) SINTOMASCONVI_20 (0) SINTOMASCONVI_21 (0)
+ SINTOMASCONVI_97 (0) SINTOMASCONVI_96 (0) SINTOMASCONVI_22 (0) SINTOMASCONVI_98 (0) SINTOMASCONVI_99 (0)
+ ATENCCONVI (0) AISLACONVI (0) PRUEBACONVI (0) CORONACONVI (0) EVOLUCCONVI (0) ATENCIONCONVI_1 (0)
+ ATENCIONCONVI_2 (0) ATENCIONCONVI_3 (0) ATENCIONCONVI_4 (0) ATENCIONCONVI_5 (0) ATENCIONCONVI_7 (0)
+ ATENCIONCONVI_8 (0) ATENCIONCONVI_9 (0) FORMACONVI_1 (0) FORMACONVI_2 (0) FORMACONVI_3 (0)
+ FORMACONVI_4 (0) FORMACONVI_5 (0) FORMACONVI_96 (0) FORMACONVI_98 (0) FORMACONVI_99 (0) VALORACONVI (0)
+ P4MUERTOS_1 (0) P4MUERTOS_2 (0) P4MUERTOS_3 (0) P5A (0) P10A_1 (0) P10A_2 (0) P10A_3 (0) P10A_4 (0)
+ P10A_5 (0) P10A_6 (0) P10A_7 (0) P10A_8 (0) P10A_9 (0) P10A_10 (0) P10A_96 (0) P10A_98 (0)
+ P10A_99 (0) P10B_1 (0) P10B_2 (0) P10B_3 (0) P10B_4 (0) P10B_5 (0) P10B_6 (0) P10B_7 (0) P10B_8 (0)
+ P10B_9 (0) P10B_10 (0) P10B_96 (0) P10B_98 (0) P10B_99 (0) LIDERESVALORA_1_1 (0) LIDERESVALORA_1_2 (0)
+ LIDERESVALORA_1_3 (0) LIDERESVALORA_1_4 (0) LIDERESVALORA_1_5 (0) INTENCIONGALTER (0) INTENCIONGALTERR (0)
+ SIMPATIA (0) RECUVOTOG (0) NIVELESTENTREV (0) CNO11 (0) RECUVOTOGR (0) PRACTICARELIG (0).
+EXECUTE.
+WEIGHT BY PESO.
+* WEIGHT BY PESOCCAA.
+FREQUENCIES VARIABLES ALL.
